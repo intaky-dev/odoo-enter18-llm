@@ -181,43 +181,64 @@ docker-compose restart odoo
 
 ## WORKFLOW GITHUB
 
-🛠️ Workflow de Publicación de Docker
-Este repositorio incluye un workflow automatizado de GitHub Actions para la construcción y publicación de la imagen Docker de Odoo 18 Enterprise en dos registros: Docker Hub y GitHub Container Registry (GHCR).
+### 🛠️ Workflow de Publicación de Docker
 
-¿Qué hace el Workflow?
-El workflow está diseñado para automatizar el proceso de construcción (build) y publicación (push) de la imagen Docker cada vez que:
+Este repositorio incluye un **workflow automatizado** de GitHub Actions para la **construcción** y **publicación** de la imagen Docker de **Odoo 18 Enterprise** en dos registros: **Docker Hub** y **GitHub Container Registry (GHCR)**.
 
-Se realiza un push a la rama main o se etiqueta una nueva versión del repositorio con un formato v*.*.*.
-Se ejecuta de manera programada según un horario definido (en este caso, cada lunes a las 08:00 UTC).
-El workflow realiza las siguientes tareas:
+### ¿Qué hace el Workflow?
 
-Descargar el paquete .deb: Descarga el archivo .deb de Odoo 18 Enterprise desde los Releases del repositorio GitHub.
-Configuración de Docker Buildx: Prepara el entorno para construir imágenes multi-plataforma utilizando Docker Buildx.
-Autenticación: Se autentica en los registros de GitHub Container Registry (GHCR) y Docker Hub para poder subir las imágenes generadas.
-Construcción de la Imagen Docker: Utiliza el Dockerfile del repositorio para construir la imagen Docker de Odoo 18 Enterprise.
-Publicación de la Imagen: Sube automáticamente la imagen construida a GitHub Container Registry (GHCR) y Docker Hub con las etiquetas correspondientes.
-Firma de la Imagen (opcional): Si la firma de la imagen es requerida, se firma utilizando Cosign para mayor seguridad (puedes omitir este paso si no es necesario).
+El workflow está diseñado para automatizar el proceso de **construcción (build)** y **publicación (push)** de la imagen Docker cada vez que:
 
-¿Cómo funciona el Workflow?
-El flujo de trabajo es completamente automatizado y se ejecuta en el entorno de GitHub Actions. No se requiere intervención manual para cada publicación de la imagen. Sin embargo, para realizar cambios, puedes modificar los pasos del workflow según sea necesario.
+- Se realiza un **push** a la rama `main` o se etiqueta una nueva versión del repositorio con un formato `v*.*.*`.
+- Se ejecuta de manera **programada** según un horario definido (en este caso, **cada lunes a las 08:00 UTC**).
 
-Desglose de los pasos:
-Checkout del repositorio: Clona el repositorio en el entorno de trabajo de GitHub Actions.
-Descarga del archivo Odoo .deb: Utiliza curl para descargar el archivo .deb de Odoo desde el repositorio de Releases.
-Configuración de Docker: Prepara Docker para construir las imágenes multi-plataforma, lo cual es esencial para asegurar que la imagen sea compatible con diferentes sistemas.
-Login en los registros: Inicia sesión en GHCR y Docker Hub usando las credenciales almacenadas en los secretos del repositorio (GITHUB_TOKEN y DOCKERHUB_TOKEN).
-Construcción de la imagen: Ejecuta el proceso de construcción de la imagen Docker según el Dockerfile del repositorio.
-Publicación de la imagen: Sube la imagen construida a los registros configurados (GHCR y Docker Hub).
-Firma de la imagen: Si la firma es necesaria, se firma la imagen utilizando la herramienta cosign (paso opcional).
+#### El workflow realiza las siguientes tareas:
 
-Uso del Workflow
-Push a la rama main: Cada vez que se realice un push en la rama main, el workflow se ejecutará automáticamente, construyendo y publicando la imagen Docker.
-Creación de una nueva versión: Al etiquetar una nueva versión con el formato v*.*.*, el workflow también se ejecutará automáticamente.
-Ejecución programada: El workflow también está configurado para ejecutarse cada lunes a las 08:00 UTC con la programación definida en el archivo de workflow (puedes modificar este cronograma según tus necesidades).
+- **Descargar el paquete .deb**: Descarga el archivo `.deb` de Odoo 18 Enterprise desde los **Releases** del repositorio GitHub.
+- **Configuración de Docker Buildx**: Prepara el entorno para construir imágenes multi-plataforma utilizando **Docker Buildx**.
+- **Autenticación**: Se autentica en los registros de **GitHub Container Registry (GHCR)** y **Docker Hub** para poder subir las imágenes generadas.
+- **Construcción de la Imagen Docker**: Utiliza el `Dockerfile` del repositorio para construir la imagen Docker de **Odoo 18 Enterprise**.
+- **Publicación de la Imagen**: Sube automáticamente la imagen construida a **GitHub Container Registry (GHCR)** y **Docker Hub** con las etiquetas correspondientes.
+- **Firma de la Imagen (opcional)**: Si la firma de la imagen es requerida, se firma utilizando **Cosign** para mayor seguridad (puedes omitir este paso si no es necesario).
 
-Comandos útiles
-Para activar manualmente el flujo de trabajo, realiza un push o crea una nueva etiqueta de versión (v*.*.*).
-Para visualizar los registros de ejecución de la acción, consulta la pestaña de Actions en GitHub.
+---
 
-Configuración del Workflow
-El workflow está configurado a través del archivo .github/workflows/docker-publish.yml. Puedes modificar este archivo para cambiar la programación, las etiquetas de versión, o agregar más pasos según las necesidades del equipo.
+### ¿Cómo funciona el Workflow?
+
+El flujo de trabajo es completamente **automatizado** y se ejecuta en el entorno de **GitHub Actions**. No se requiere intervención manual para cada publicación de la imagen. Sin embargo, puedes modificar los pasos del workflow según sea necesario para adaptarlos a tus requerimientos.
+
+#### Desglose de los pasos:
+
+1. **Checkout del repositorio**: Clona el repositorio en el entorno de trabajo de GitHub Actions.
+2. **Descarga del archivo Odoo .deb**: Utiliza `curl` para descargar el archivo `.deb` de Odoo desde el repositorio de **Releases**.
+3. **Configuración de Docker**: Prepara Docker para construir las imágenes multi-plataforma, lo cual es esencial para asegurar que la imagen sea compatible con diferentes sistemas.
+4. **Login en los registros**: Inicia sesión en **GHCR** y **Docker Hub** usando las credenciales almacenadas en los secretos del repositorio (`GITHUB_TOKEN` y `DOCKERHUB_TOKEN`).
+5. **Construcción de la imagen**: Ejecuta el proceso de construcción de la imagen Docker según el `Dockerfile` del repositorio.
+6. **Publicación de la imagen**: Sube la imagen construida a los registros configurados (**GHCR** y **Docker Hub**).
+7. **Firma de la imagen**: Si la firma es necesaria, se firma la imagen utilizando la herramienta **Cosign** (paso opcional).
+
+---
+
+### Uso del Workflow
+
+- **Push a la rama `main`**: Cada vez que se realice un **push** en la rama `main`, el workflow se ejecutará automáticamente, construyendo y publicando la imagen Docker.
+- **Creación de una nueva versión**: Al etiquetar una nueva versión con el formato `v*.*.*`, el workflow también se ejecutará automáticamente.
+- **Ejecución programada**: El workflow está configurado para ejecutarse **cada lunes a las 08:00 UTC** con la programación definida en el archivo de workflow (puedes modificar este cronograma según tus necesidades).
+
+---
+
+### Comandos útiles
+
+- Para **activar manualmente** el flujo de trabajo, realiza un **push** o crea una nueva etiqueta de versión (`v*.*.*`).
+- Para visualizar los **registros de ejecución** de la acción, consulta la pestaña de **Actions** en GitHub.
+
+---
+
+### Configuración del Workflow
+
+El workflow está configurado a través del archivo `.github/workflows/docker-publish.yml`. Puedes modificar este archivo para cambiar la programación, las etiquetas de versión, o agregar más pasos según las necesidades del equipo.
+
+---
+
+Espero que te sirva para tu documentación. Puedes copiarlo y pegarlo directamente en tu `README.md`. ¿Te gustaría hacer algún ajuste o agregar algo más?
+
