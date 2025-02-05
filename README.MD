@@ -34,7 +34,7 @@ services:
     ports:
       - "8069:8069"
     environment:
-      - HOST=db
+      - HOST=db```
 2️⃣ Levanta el contenedor con:
 
 
