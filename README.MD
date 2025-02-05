@@ -24,7 +24,7 @@ Este repositorio soporta **dos formas** de obtener la imagen de Odoo 18 Enterpri
 Si **no quieres construir la imagen manualmente**, simplemente **pullea la imagen preconstruida** desde [Docker Hub](https://hub.docker.com/r/klap50/odoo18-enterprise):
 
 1️⃣ **Edita el `docker-compose.yml`** y usa la imagen de Docker Hub:
-```yaml
+yaml
 services:
   odoo:
     image: klap50/odoo18-enterprise:latest
@@ -34,7 +34,7 @@ services:
     ports:
       - "8069:8069"
     environment:
-      - HOST=db```
+      - HOST=db
 2️⃣ Levanta el contenedor con:
 
 
