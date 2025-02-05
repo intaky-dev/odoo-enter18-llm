@@ -25,7 +25,7 @@ Si **no quieres construir la imagen manualmente**, simplemente **pullea la image
 
 1️⃣ **Edita el `docker-compose.yml`** y usa la imagen de Docker Hub:
 yaml
-services:
+'''services:
   odoo:
     image: klap50/odoo18-enterprise:latest
     container_name: odoo-enterprise
@@ -34,7 +34,7 @@ services:
     ports:
       - "8069:8069"
     environment:
-      - HOST=db
+'''   - HOST=db
 2️⃣ Levanta el contenedor con:
 
 
