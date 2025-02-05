@@ -39,6 +39,7 @@ services:
 ```docker-compose up -d```
 
 ✅ Si la imagen no está en local, se descargará automáticamente.
+
 ✅ Siempre usa docker-compose pull para obtener la versión más reciente.
 
 🔨 2️⃣ Alternativa: Construir la imagen localmente
@@ -84,7 +85,9 @@ Descárgalo con el siguiente comando:
 
 ```wget https://github.com/FW-CORP/odoo-enter18/releases/download/v18.0-enterprise/odoo_18.0+e.latest_all.deb -P . ```
 O descárgalo manualmente desde:
-🔗 Descargar el .deb desde GitHub Releases
+
+🔗 Descargar el .deb desde GitHub Releases 
+   * https://github.com/FW-CORP/odoo-enter18/releases/download/v18.0-enterprise/odoo_18.0+e.latest_all.deb
 
 ⚙️ 3️⃣ Configurar el entorno
 Edita el archivo .env para definir las credenciales de PostgreSQL y Odoo:
@@ -98,7 +101,9 @@ ODOO_ADMIN_PASSWORD=Glider913!
 🏗️ 4️⃣ Construir y levantar los servicios
 
 docker-compose up -d --build
+
 ✅ Esto iniciará los contenedores de Odoo y PostgreSQL.
+
 🔗 Odoo estará disponible en: http://localhost:8069
 ```
 📌 Estructura del Proyecto
@@ -123,10 +128,13 @@ Aquí tienes el README.md correctamente formateado en Markdown con todos los blo
 2️⃣ Levanta el contenedor con:
 
 🛠️ Solución de Problemas
+
 ⚠️ 1. Problema con permisos de pip install
+
 💡 Causa: Se está ejecutando pip install como root, lo cual puede generar problemas de permisos.
 
 ✅ Solución recomendada: Se instaló un entorno virtual en el Dockerfile para evitar conflictos:
+
 ```
 dockerfile
 RUN python3 -m venv /opt/odoo/venv && \
@@ -166,5 +174,7 @@ docker-compose restart odoo
 ```
 
 🎯 Próximos Pasos
+
 ✅ Verificar que Odoo funcione correctamente con la localización en español (l10n_es).
+
 ✅ Probar instalación de módulos críticos (ventas, facturación, contabilidad).
