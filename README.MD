@@ -10,6 +10,52 @@ Este repositorio contiene la configuración para ejecutar **Odoo 18 Enterprise**
 - 📂 **Persistencia de datos** con volúmenes Docker.
 - 🛠️ Soporte para **entorno virtual de Python** (`venv`) para evitar conflictos con permisos.
 
+## 🛠️ Importante: ¿Usar `build` o `pull` de Docker Hub? 🤔
+
+Este repositorio soporta **dos formas** de obtener la imagen de Odoo 18 Enterprise:
+
+### ✅ **1️⃣ Método recomendado: Usar la imagen desde Docker Hub**
+Si **no quieres construir la imagen manualmente**, simplemente **pullea la imagen preconstruida** desde [Docker Hub](https://hub.docker.com/r/klap50/odoo18-enterprise):
+
+1️⃣ **Edita el `docker-compose.yml`** y usa la imagen de Docker Hub:
+```yaml
+services:
+  odoo:
+    image: klap50/odoo18-enterprise:latest
+    container_name: odoo-enterprise
+    depends_on:
+      - db
+    ports:
+      - "8069:8069"
+    environment:
+      - HOST=db
+2️⃣ Levanta el contenedor con:
+
+docker-compose up -d
+✅ Si la imagen no está en local, se descargará automáticamente.
+✅ Siempre usa docker-compose pull para obtener la versión más reciente.
+
+🔨 2️⃣ Alternativa: Construir la imagen localmente
+Si quieres modificar la imagen o hacer pruebas, puedes construirla manualmente:
+
+1️⃣ Edita docker-compose.yml y usa build: en vez de image::
+
+yaml
+services:
+  odoo:
+    build: .
+    container_name: odoo-enterprise
+    depends_on:
+      - db
+    ports:
+      - "8069:8069"
+    environment:
+      - HOST=db
+2️⃣ Construye la imagen y levanta los contenedores con:
+
+docker-compose up -d --build
+✅ Este método es útil si has cambiado el Dockerfile y necesitas recompilar la imagen.
+
 ---
 
 ## 🚀 Requisitos previos
