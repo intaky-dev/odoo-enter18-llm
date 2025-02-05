@@ -27,9 +27,13 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Descargar Odoo .deb
-        run: wget -O odoo_18.0+e.latest_all.deb "https://github.com/FW-CORP/odoo-enter18/releases/download/v18.0-enterprise/odoo_18.0+e.latest_all.deb"
+      - name: Descargar Odoo .deb con autenticación
+        run: |
+          curl -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+               -L -o odoo_18.0+e.latest_all.deb \
+               "https://github.com/FW-CORP/odoo-enter18/releases/download/v18.0-enterprise/odoo_18.0+e.latest_all.deb"
 
+ 
       - name: Set up Docker Buildx
         uses: docker/setup-buildx-action@v3
 
