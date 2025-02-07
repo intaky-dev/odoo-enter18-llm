@@ -30,6 +30,11 @@ RUN apt-get update && apt-get install -y apt-utils \
     python3-renderpm \
     && apt-get clean && rm -rf /var/lib/apt/lists/*
 
+# Instalar locales y configurar es_AR.UTF-8
+RUN apt-get install -y locales && \
+    locale-gen es_AR.UTF-8 && \
+    update-locale LANG=es_AR.UTF-8
+
 # Crear usuario para Odoo
 RUN useradd -m -d /opt/odoo -U -r -s /bin/bash odoo
 
@@ -58,7 +63,5 @@ USER odoo
 # Exponer los puertos de Odoo
 EXPOSE 8069 8071
 
-# Comando de arranque
+# Comando de arranque para esperar que PostgreSQL esté listo antes de iniciar Odoo
 CMD ["wait-for-it", "db:5432", "--", "/usr/bin/odoo", "-i", "base", "--database=odoo"]
-
-
