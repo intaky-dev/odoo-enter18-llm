@@ -7,6 +7,7 @@ ENV DEBIAN_FRONTEND=noninteractive
 
 # Actualizar repositorios e instalar dependencias de Ubuntu
 RUN apt-get update && apt-get install -y apt-utils \
+    locales \
     python3 python3-pip python3-dev python3-venv \
     libxml2-dev libxslt1-dev libevent-dev \
     libsasl2-dev libldap2-dev libpq-dev \
@@ -30,9 +31,8 @@ RUN apt-get update && apt-get install -y apt-utils \
     python3-renderpm \
     && apt-get clean && rm -rf /var/lib/apt/lists/*
 
-# Instalar locales y configurar es_AR.UTF-8
-RUN apt-get install -y locales && \
-    locale-gen es_AR.UTF-8 && \
+# Generar el locale es_AR.UTF-8
+RUN locale-gen es_AR.UTF-8 && \
     update-locale LANG=es_AR.UTF-8
 
 # Crear usuario para Odoo
@@ -63,5 +63,5 @@ USER odoo
 # Exponer los puertos de Odoo
 EXPOSE 8069 8071
 
-# Comando de arranque para esperar que PostgreSQL esté listo antes de iniciar Odoo
+# Comando de arranque
 CMD ["wait-for-it", "db:5432", "--", "/usr/bin/odoo", "-i", "base", "--database=odoo"]

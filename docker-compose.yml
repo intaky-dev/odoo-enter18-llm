@@ -13,6 +13,9 @@ services:
     volumes:
       - odoo-db-data:/var/lib/postgresql/data
     restart: always
+    build:
+      context: .
+      dockerfile: Dockerfile.db
 
   odoo:
     build: .
@@ -36,5 +39,5 @@ services:
       - ./config:/etc/odoo
 
 volumes:
-  odoo-db:
+  odoo-db-data:
   odoo-data:
