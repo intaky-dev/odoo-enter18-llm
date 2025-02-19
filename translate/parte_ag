@@ -1,0 +1,500 @@
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/snippets/s_tp_countdown/000.xml:0
+msgid "HOURS"
+msgstr ""
+
+#. module: theme_prime
+#: model:ir.model,name:theme_prime.model_ir_http
+msgid "HTTP Routing"
+msgstr "Enrutamiento HTTP"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_10
+msgid "HUGE SALE!"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_1
+msgid "Handset"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_stats_1
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_stats_2
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_stats_3
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_stats_5
+msgid "Happy Clients"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_10
+msgid "Happy Customers"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_tp_countdown
+msgid "Happy Shopping!"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_3
+msgid "Hats"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/ui_component.js:0
+msgid "Header Style"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Heading - 1"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Heading - 2"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Heading - 3"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Heading - 4"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Heading - 5"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Heading - 6"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Headings"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.tp_options
+msgid "Height"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_10
+msgid "Help Center"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.404
+msgid "Here are some helpful links instead"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/dialog.xml:0
+msgid "Hey, You don't need to be a designer to configure the snippet."
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.shop_layout_filters
+msgid "Hide out of stock"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_cover_2
+msgid "High Quality Fabric Collection"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_cover_3
+msgid "High Quality Products"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_call_to_action_3
+msgid "Hire Us!"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.all_brands
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_3
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_8
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_9
+msgid "Home"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.404
+msgid "Homepage"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_13
+msgid "Hot Collection"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/snippets/s_tp_countdown/000.xml:0
+msgid "Hours"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/dialog.xml:0
+msgid "How it works?"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_1
+msgid "Huawei"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_14
+msgid "Hurry up to reserve your spot now"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_10
+msgid "Hurry up!"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_14
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_image_product_listing_cards
+msgid "Hurry up! Limited time offer"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Icon Block - 1"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Icon Block - 10"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Icon Block - 11"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Icon Block - 12"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Icon Block - 2"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Icon Block - 3"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Icon Block - 4"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Icon Block - 5"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Icon Block - 6"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Icon Block - 7"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Icon Block - 8"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Icon Block - 9"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Icon Blocks"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippet_options
+msgid "Icon Pack"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/record_selection.js:0
+msgid "Image"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_cover_3
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_10
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_9
+msgid "In 2-3 Days"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_4
+msgid ""
+"In hac habitasse platea dictumst. Praesent cursus congue felis, nec "
+"pellentesque nulla ornare sed."
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_3
+msgid ""
+"In hac habitasse platea dictumst. Praesent cursus congue felis, nec "
+"pellentesque nulla ornare sed. Aliquam eget aliquam urna."
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_8
+msgid ""
+"In hac habitasse platea dictumst. Praesent cursus congue felis, nec "
+"pellentesque nulla ornare sed. In hac habitasse platea dictumst. "
+"pellentesque nulla sed."
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_7
+msgid ""
+"In hac habitasse platea dictumst. Praesent cursus congue felis, nec "
+"pellentesque nulla ornare sed. Orci varius natoque penatibus et magnis dis "
+"parturient montes, nascetur mus."
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_2
+msgid ""
+"In hac habitasse platea dictumst. Praesent cursus congue felis, nec "
+"pellentesque nulla."
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_1
+msgid ""
+"In hac habitasse platea dictumst. Praesent cursus congue felis, nec "
+"pellentesque."
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/record_selection.xml:0
+msgid "In stock"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_heading_options
+msgid "Info"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Info Block - 1"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Info Block - 2"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Info Block - 3"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Info Block - 4"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Info Block - 5"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Info Block - 6"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Info Block - 7"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Info Block - 8"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_info_block_1
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_info_block_2
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_info_block_3
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_info_block_4
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_info_block_5
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_info_block_6
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_info_block_8
+msgid "Info Block Image 01"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_info_block_3
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_info_block_4
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_info_block_5
+msgid "Info Block Image 02"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_info_block_4
+msgid "Info Block Image 03"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Info Blocks"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_10
+msgid "Information"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_cover_5
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_subscribe_1
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_subscribe_3
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_subscribe_4
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_1
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_2
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_3
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_4
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_5
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_6
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_7
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_8
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_9
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_header_style_1
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_preheader_style_4
+msgid "Instagram"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/js/dialog/pwa_prompt_dialog.xml:0
+msgid "Install"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_9
+msgid "International style"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/search_input.xml:0
+msgid "Items"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_1
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_10
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_2
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_3
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_4
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_5
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_7
+msgid "JCB"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_cover_2
+msgid "JUST NEWLY ARRIVED!"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_2
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_3
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_4
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_5
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_6
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_7
+msgid "Jeans"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_3
+msgid "Jewelry"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_testimonial_1
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_testimonial_2
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_testimonial_3
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_testimonial_4
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_testimonial_5
+msgid "John Doe"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_subscribe_4
+msgid "Join Our Mailing List"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_subscribe_3
+msgid "Join Our Newsletter Now"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/dialog.xml:0
+msgid ""
+"Just activate options from the right panel as per your need and see the "
+"magic."
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_gallery_4
+msgid "Just adding some random string  heresit."
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_5
+msgid "Just some random content to break this paragraph into two line."
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_stats_2
+msgid "Just some random string to reach eighty charater limit to break."
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_stats_4
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_stats_5
+msgid ""

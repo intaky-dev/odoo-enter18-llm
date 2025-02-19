@@ -1,0 +1,500 @@
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/search_input.js:0
+#: code:addons/theme_prime/static/src/components/ui_component.js:0
+msgid "Name: A to Z"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/search_input.js:0
+#: code:addons/theme_prime/static/src/components/ui_component.js:0
+msgid "Name: Z to A"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_call_to_action_5
+msgid "Need to do calculations?"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/search_input.js:0
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_1
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_2
+msgid "New Arrival"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_cover_3
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_info_block_3
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_info_block_4
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_info_block_5
+msgid "New Arrivals"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/record_selection.xml:0
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_1
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_2
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_6
+msgid "New Collection"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_image_product_listing_cards
+msgid "New Hoodie Collection"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_stats_1
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_stats_2
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_stats_3
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_stats_5
+msgid "New Ideas"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_5
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_6
+msgid "New York, United States"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/search_input.js:0
+#: code:addons/theme_prime/static/src/components/ui_component.js:0
+#: code:addons/theme_prime/static/src/js/frontend/dynamic_snippets.js:0
+msgid "Newly Arrived"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_shop_offer_4
+msgid "Newly Launched"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_2
+msgid "News"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.product
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_cover_1
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_cover_2
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_testimonial_3
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_testimonial_4
+msgid "Next"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_cover_3
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_10
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_11
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_9
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_2
+msgid "No Questions Asked"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.product_tabs
+msgid "No Specifications"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/js/frontend/dynamic_snippets.js:0
+msgid "No brands are found!"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/js/frontend/dynamic_snippets.js:0
+msgid "No categories found!"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.shop_layout
+msgid "No product defined in category"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/js/frontend/dynamic_snippets.js:0
+msgid "No product found"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/js/core/snippet_root_widget.js:0
+msgid "No products found!"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/record_selection.xml:0
+msgid "No records are selected"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/search_input.xml:0
+msgid "No results found for"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/js/searchbar/searchbar.xml:0
+msgid "No results found for '"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/search_input.xml:0
+msgid "No rules are added."
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.similar_products_sidebar
+msgid "No similar products found!"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/ui_component.xml:0
+msgid "No specific mobile configuration available for this snippet"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/search_input.js:0
+msgid "No. of Child"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/ui_component.js:0
+msgid "No. of Products"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/search_input.js:0
+#: code:addons/theme_prime/static/src/components/ui_component.js:0
+msgid "No. of items"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_1
+msgid "Nokia"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_tp_countdown_options
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippet_options
+msgid "None"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_heading_options
+msgid "Normal"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_subscribe_3
+msgid "OR"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.product_label
+msgid "OUT OF STOCK"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.tp_options
+msgid "On Click"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/ui_component.js:0
+#: code:addons/theme_prime/static/src/js/frontend/dynamic_snippets.js:0
+msgid "On Sale"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_8
+msgid "On order above $100"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_8
+msgid "On order above $60"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_8
+msgid "On order above $80"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_info_block_6
+msgid "On the Ear"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/ui_component.js:0
+msgid "Only Direct Child Categories"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.tp_mobile_bottombar_component
+msgid "Open menu"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/search_input.xml:0
+msgid "Operators :"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/search_input.xml:0
+#: model_terms:theme.ir.ui.view,arch:theme_prime.tp_product_right_panel
+msgid "Options"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_1
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_2
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_4
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_shop_offer_5
+msgid ""
+"Orci varius natoque penatibus et magnis dis parturient montes, nascetur "
+"ridiculus mus."
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_3
+msgid ""
+"Orci varius natoque penatibus et magnis dis parturient montes, nascetur "
+"ridiculus mus. Aenean pretium ac enim eget dignissim."
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_7
+msgid ""
+"Orci varius natoque penatibus et magnis dis parturient montes, nascetur "
+"ridiculus mus. Orci varius natoque penatibus et magnis dis parturient "
+"montes, nascetur ridiculus mus."
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_8
+msgid ""
+"Orci varius natoque penatibus et magnis dis parturient montes, nascetur "
+"ridiculus mus. Orci varius natoque penatibus et magnis. nascetur ridiculus "
+"mus."
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/search_input.js:0
+msgid "Order By"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_call_to_action_4
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_call_to_action_5
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_1
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_2
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_3
+msgid "Order Now"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_11
+msgid "Order above $250 and get free gift voucher."
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_call_to_action_1
+msgid "Order now and get <span class=\"text-o-color-1\">15% OFF</span>"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_3
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_6
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_7
+msgid "Order tracking"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.product_tabs
+msgid "Others"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_heading_4
+msgid "Our Creative <font class=\"text-o-color-1\">Team</font>"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_2
+msgid "Our Policy"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_2
+msgid "Our Stores"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_6
+msgid ""
+"Our products are designed for small to medium size companies willing to "
+"optimize their performance."
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_10
+msgid "Our store"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/record_selection.xml:0
+msgid "Out Of Stock"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_5
+msgid "Payment"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_4
+msgid "Per Month"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_9
+msgid "Personal Care"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_1
+msgid "Phablet"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_6
+msgid "Phone Number"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/js/dialog/product_share_dialog.xml:0
+msgid "Pinterest"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_1
+msgid "Play Station"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/search_input.xml:0
+msgid "Please add some rules and make snippet more powerful."
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.shop_layout
+msgid "Please check the spelling or try searching something else"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/js/core/mixins.js:0
+msgid "Please log in first."
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/record_selection.xml:0
+msgid "Please search and add few records from the input."
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/js/searchbar/searchbar.xml:0
+msgid "Please try another search."
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_2
+msgid "Polo T-shirts"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.tp_options
+msgid "Popover"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.dynamic_filter_template_blog_post_prime_layout_4
+msgid "Posted by"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_cover_4
+msgid ""
+"Powered by a 10 nm octa-core Qualcomm Snapdragon 712 AIE processor, this "
+"phone can seamlessly execute any task. You can game more and multitask "
+"without experiencing any lag. Experience a boost in performance and "
+"efficiency with this phone."
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_team_2
+msgid "Praesent ornare mi quis"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippet_options
+msgid "Preheader"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_4
+msgid "Premium"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_info_block_7
+msgid "Premium Collection"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.product
+msgid "Prev"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.tp_options
+msgid "Preview"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_cover_1
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_cover_2
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_testimonial_3
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_testimonial_4
+msgid "Previous"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript

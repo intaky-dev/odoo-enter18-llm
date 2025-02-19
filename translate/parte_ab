@@ -1,0 +1,500 @@
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_header_style_1
+msgid "<i class=\"fa fa-1x fa-fw fa-phone\"/> +1 555-555-5556"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.product_item_actions
+msgid "<i class=\"fa fa-angle-down\" role=\"img\" aria-label=\"More options\"/>"
+msgstr "<i class=\"fa fa-angle-down\" role=\"img\" aria-label=\"Más opciones\"/>"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.product_wishlist
+msgid ""
+"<i class=\"fa fa-bell\"/>\n"
+"                                                    We'll notify you once the product is back in stock."
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_info_block_6
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_info_block_7
+msgid "<i class=\"fa fa-check-circle-o\"/> 100% secure payment"
+msgstr "<i class=\"fa fa-check-circle-o\"/> 100% pago seguro"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_info_block_6
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_info_block_7
+msgid "<i class=\"fa fa-check-circle-o\"/> 12k+ happy customers"
+msgstr "<i class=\"fa fa-check-circle-o\"/> 12k+ clientes felices"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_info_block_6
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_info_block_7
+msgid "<i class=\"fa fa-check-circle-o\"/> 24x7 customer support"
+msgstr "<i class=\"fa fa-check-circle-o\"/> Soporte al cliente 24x7"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_info_block_6
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_info_block_7
+msgid "<i class=\"fa fa-check-circle-o\"/> 30 days replacement"
+msgstr "<i class=\"fa fa-check-circle-o\"/> Reemplazo de 30 días"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_info_block_6
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_info_block_7
+msgid "<i class=\"fa fa-check-circle-o\"/> Cash on delivery"
+msgstr "<i class=\"fa fa-check-circle-o\"/> Pago contra entrega"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_info_block_6
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_info_block_7
+msgid "<i class=\"fa fa-check-circle-o\"/> Easy returns"
+msgstr "<i class=\"fa fa-check-circle-o\"/> Devoluciones fáciles"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_info_block_6
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_info_block_7
+msgid "<i class=\"fa fa-check-circle-o\"/> Fast delivery"
+msgstr "<i class=\"fa fa-check-circle-o\"/> Entrega rápida"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_info_block_6
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_info_block_7
+msgid "<i class=\"fa fa-check-circle-o\"/> Quality products"
+msgstr "<i class=\"fa fa-check-circle-o\"/> Productos de calidad"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.tp_options
+msgid "<i class=\"fa fa-cogs fa-fw\"/> Manage Documents"
+msgstr "<i class=\"fa fa-cogs fa-fw\"/> Gestionar Documentos"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.product_tabs
+msgid "<i class=\"fa fa-download\"/> Download"
+msgstr "<i class=\"fa fa-download\"/> Descargar"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_team_3
+msgid "<i class=\"fa fa-envelope me-1\"/> information@mail.com"
+msgstr "<i class=\"fa fa-envelope me-1\"/> informacion@mail.com"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_12
+msgid "<i class=\"fa fa-exchange me-2\"/> Free returns"
+msgstr "<i class=\"fa fa-exchange me-2\"/> Devoluciones gratis"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.tp_mobile_bottombar_component
+msgid ""
+"<i class=\"fa fa-filter text-primary\"/> <span class=\"text-body\"> Filters "
+"</span>"
+msgstr ""
+"<i class=\"fa fa-filter text-primary\"/> <span class=\"text-body\"> Filtros "
+"</span>"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.tp_options
+msgid "<i class=\"fa fa-fw fa-plus pe-1\"/> Add hotspot"
+msgstr "<i class=\"fa fa-fw fa-plus pe-1\"/> Agregar punto de acceso"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.tp_product_quick_view
+msgid ""
+"<i class=\"fa fa-heart-o me-2\" role=\"img\" aria-label=\"Add to "
+"wishlist\"/>Add to wishlist"
+msgstr ""
+"<i class=\"fa fa-heart-o me-2\" role=\"img\" aria-label=\"Agregar a la lista"
+" de deseos\"/>Agregar a la lista de deseos"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.tp_product_quick_view
+msgid "<i class=\"fa fa-info-circle me-1\"/> Full Product Information"
+msgstr "<i class=\"fa fa-info-circle me-1\"/> Información completa del producto"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_12
+msgid "<i class=\"fa fa-life-ring me-2\"/> Free support"
+msgstr "<i class=\"fa fa-life-ring me-2\"/> Soporte gratuito"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_team_3
+msgid "<i class=\"fa fa-phone me-1\"/> +12 345 6789 101"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.product_add_to_wishlist
+msgid "<i class=\"fa fa-share-alt me-2\" role=\"img\" aria-label=\"Share\"/>Share"
+msgstr ""
+"<i class=\"fa fa-share-alt me-2\" role=\"img\" aria-"
+"label=\"Compartir\"/>Compartir"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.tp_options
+msgid "<i class=\"fa fa-shopping-cart fa-fw\"/> Manage Snippet"
+msgstr "<i class=\"fa fa-shopping-cart fa-fw\"/> Gestionar fragmento"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.product_wishlist
+msgid ""
+"<i class=\"fa fa-times text-danger\"/>\n"
+"                                                            Invalid email"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_12
+msgid "<i class=\"fa fa-truck me-2\"/> Free Shipping for order over $200"
+msgstr ""
+"<i class=\"fa fa-truck me-2\"/> Envío gratuito para pedidos superiores a "
+"$200"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.cart_sidebar
+msgid ""
+"<i class=\"fa fa-truck\"/> You are eligible for <strong>free "
+"shipping!</strong>"
+msgstr ""
+"<i class=\"fa fa-truck\"/> ¡Eres elegible para <strong>envío "
+"gratuito!</strong>"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_tp_documents_snippet
+msgid "<i class=\"fa fa-warning\"/> External Documents will not work"
+msgstr "<i class=\"fa fa-warning\"/> Los documentos externos no funcionarán"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_preheader_style_3
+msgid ""
+"<small class=\"d-flex align-items-center\">\n"
+"                                    <i class=\"fa fa-1x fa-fw fa-truck fa-stack me-1\"/>\n"
+"                                    Free Delivery\n"
+"                                </small>\n"
+"                                <small class=\"d-flex align-items-center\">\n"
+"                                    <i class=\"fa fa-1x fa-fw fa-support fa-stack me-1\"/>\n"
+"                                    24 x 7 Support\n"
+"                                </small>\n"
+"                                <small class=\"d-flex align-items-center\">\n"
+"                                    <i class=\"fa fa-1x fa-fw fa-refresh fa-stack me-1\"/>\n"
+"                                    30 Days Return\n"
+"                                </small>"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_subscribe_1
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_subscribe_4
+msgid ""
+"<small class=\"s_social_media_title text-muted d-none\"><b>Follow "
+"us</b></small>"
+msgstr ""
+"<small class=\"s_social_media_title text-muted "
+"d-none\"><b>Síguenos</b></small>"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.product_wishlist
+msgid "<small class=\"text-danger\">Temporarily out of stock</small>"
+msgstr "<small class=\"text-danger\">Temporalmente fuera de stock</small>"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.product_wishlist
+msgid ""
+"<small>\n"
+"                                                        <i class=\"fa fa-envelope-o\"/>\n"
+"                                                        Get notified when back in stock\n"
+"                                                    </small>"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.product_wishlist
+msgid ""
+"<small>\n"
+"                                                    <i class=\"dri dri-compare\"/> Add to compare\n"
+"                                                </small>"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_2
+msgid ""
+"<small> * Subscribe to our newsletter to receive early discount offers and "
+"new products info. </small>"
+msgstr ""
+"<small> * Suscríbete a nuestro boletín para recibir ofertas de descuento "
+"anticipadas e información sobre nuevos productos. </small>"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.cart_sidebar
+msgid "<small>Proceed <i class=\"fa fa-angle-right ms-1\"/></small>"
+msgstr "<small>Proceder <i class=\"fa fa-angle-right ms-1\"/></small>"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_cover_1
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_cover_2
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_testimonial_3
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_testimonial_4
+msgid ""
+"<span class=\"carousel-control-next-icon\" aria-hidden=\"true\"/>\n"
+"                    <span class=\"visually-hidden\">Next</span>"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_cover_1
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_cover_2
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_testimonial_3
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_testimonial_4
+msgid ""
+"<span class=\"carousel-control-prev-icon\" aria-hidden=\"true\"/>\n"
+"                    <span class=\"visually-hidden\">Previous</span>"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.shop_layout
+msgid ""
+"<span class=\"d-inline-block text-bg-primary px-2 py-1\"><i class=\"fa fa-"
+"filter\"/> </span> <strong class=\"d-inline-block ps-1 pe-2\">Show "
+"Filters</strong>"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.shop_layout
+msgid "<span class=\"d-none d-lg-inline h6 me-1\">Sort By :</span>"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.product
+msgid "<span class=\"dri dri-compare me-2\"/>Compare"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.product_tabs
+msgid "<span class=\"fa fa-comments-o me-1\"/> Reviews &amp; Rating"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_team_2
+msgid "<span class=\"fa fa-envelope p-1\"/> information@mail.com"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.product_tabs
+msgid "<span class=\"fa fa-file-pdf-o me-1\"/> Documents"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.product_tabs
+msgid "<span class=\"fa fa-file-text-o me-1\"/> Description"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_team_2
+msgid "<span class=\"fa fa-phone p-1\"/> +12 345 6789 101"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.product_tabs
+msgid "<span class=\"fa fa-sliders me-1\"/> Specifications"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.shop_layout
+msgid "<span class=\"h6 me-1\">Pricelist :</span>"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_header_mobile
+msgid "<span class=\"mx-1\">/</span> Signup"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.dynamic_filter_template_blog_post_prime_layout_1
+msgid "<span class=\"mx-1\">Posted by</span>"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippet_options
+msgid "<span class=\"mx-2 o_wsale_ppr_by\">by</span>"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.dynamic_filter_template_blog_post_prime_layout_1
+msgid "<span class=\"mx-2\">•</span>"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_3
+msgid "<span class=\"p-1 fa fa-check text-o-color-1\"/> Cras justo odio"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_3
+msgid "<span class=\"p-1 fa fa-check text-o-color-1\"/> Dapibus ac facilisis"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_3
+msgid "<span class=\"p-1 fa fa-check text-o-color-1\"/> Vestibulum at eros"
+msgstr "<span class=\"p-1 fa fa-check text-o-color-1\"/> Vestibulum en eros"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_4
+msgid "<span class=\"p-1 fa fa-check\"/> <strong>24 x Support</strong>"
+msgstr "<span class=\"p-1 fa fa-check\"/> <strong>Soporte 24 x</strong>"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_4
+msgid "<span class=\"p-1 fa fa-check\"/> <strong>50 GB</strong> Disk Space"
+msgstr "<span class=\"p-1 fa fa-check\"/> <strong>50 GB</strong> Espacio en disco"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_4
+msgid "<span class=\"p-1 fa fa-check\"/> <strong>Email Support</strong>"
+msgstr ""
+"<span class=\"p-1 fa fa-check\"/> <strong>Soporte por correo "
+"electrónico</strong>"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_4
+msgid ""
+"<span class=\"p-1 fa fa-check\"/> <strong>Unlimited</strong> Email Addresses"
+msgstr ""
+"<span class=\"p-1 fa fa-check\"/> <strong>Ilimitadas</strong> direcciones de"
+" correo electrónico"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_4
+msgid "<span class=\"p-1 fa fa-check\"/> <strong>Unlimited</strong> SQL Database"
+msgstr ""
+"<span class=\"p-1 fa fa-check\"/> <strong>Ilimitada</strong> base de datos "
+"SQL"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_1
+msgid "<span class=\"p-1 fa fa-check\"/> Cras justo odio"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_1
+msgid "<span class=\"p-1 fa fa-check\"/> Dapibus ac facilisis"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_1
+msgid "<span class=\"p-1 fa fa-check\"/> Vestibulum at eros"
+msgstr "<span class=\"p-1 fa fa-check\"/> Vestibulum en eros"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_3
+msgid "<span class=\"p-1 fa fa-times text-o-color-1\"/> Cras justo odio"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_3
+msgid "<span class=\"p-1 fa fa-times text-o-color-1\"/> Dapibus ac facilisis"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_3
+msgid "<span class=\"p-1 fa fa-times text-o-color-1\"/> Vestibulum at eros"
+msgstr "<span class=\"p-1 fa fa-times text-o-color-1\"/> Vestibulum en eros"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_4
+msgid "<span class=\"p-1 fa fa-times\"/> <strong>24 x Support</strong>"
+msgstr "<span class=\"p-1 fa fa-times\"/> <strong>Soporte 24 x</strong>"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_4
+msgid "<span class=\"p-1 fa fa-times\"/> <strong>Email Support</strong>"
+msgstr ""
+"<span class=\"p-1 fa fa-times\"/> <strong>Soporte por correo "
+"electrónico</strong>"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_1
+msgid "<span class=\"p-1 fa fa-times\"/> Cras justo odio"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_1
+msgid "<span class=\"p-1 fa fa-times\"/> Dapibus ac facilisis"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_1
+msgid "<span class=\"p-1 fa fa-times\"/> Vestibulum at eros"
+msgstr "<span class=\"p-1 fa fa-times\"/> Vestibulum en eros"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_cover_5
+msgid ""
+"<span class=\"s_badge badge bg-primary o_default_snippet_text py-1 m-0 px-2\" style=\"border-radius: 50rem;\" data-name=\"Badge\">\n"
+"                                <i class=\"fa fa-1x fa-fw fa-star-o o_not-animable m-0\"/> BEST\n"
+"                            </span>"
+msgstr ""
+"<span class=\"s_badge badge bg-primary o_default_snippet_text py-1 m-0 px-2\" style=\"border-radius: 50rem;\" data-name=\"Badge\">\n"
+"                                <i class=\"fa fa-1x fa-fw fa-star-o o_not-animable m-0\"/> MEJOR\n"
+"                            </span>"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.tp_b2b_price_label
+msgid "<span class=\"text-muted\"> to see price</span>"
+msgstr "<span class=\"text-muted\"> para ver el precio</span>"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.selected_attributes
+msgid ""
+"<span class=\"tp-attribute d-flex align-items-center cursor-pointer\" data-id=\"hide_out_of_stock\">\n"
+"                            <span>Hide out of stock</span>\n"
+"                            <i class=\"dri dri-cross-l ms-1 tp-attribute-remove\"/>\n"
+"                        </span>"
+msgstr ""
+"<span class=\"tp-attribute d-flex align-items-center cursor-pointer\" data-id=\"hide_out_of_stock\">\n"
+"                            <span>Ocultar fuera de stock</span>\n"
+"                            <i class=\"dri dri-cross-l ms-1 tp-attribute-remove\"/>\n"
+"                        </span>"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_heading_3
+msgid ""
+"<span class=\"tp-badge badge bg-primary rounded-pill\" data-"
+"name=\"Badge\">Discover</span>"
+msgstr ""
+"<span class=\"tp-badge badge bg-primary rounded-pill\" data-"
+"name=\"Badge\">Descubrir</span>"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_info_block_7
+msgid ""
+"<span class=\"tp-offer-label-md\">%</span>\n"
+"                                <span class=\"d-block text-uppercase tp-offer-label-sm\">off</span>"
+msgstr ""
+"<span class=\"tp-offer-label-md\">%</span>\n"
+"                                <span class=\"d-block text-uppercase tp-offer-label-sm\">descuento</span>"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_tp_documents_snippet
+msgid ""
+"<span class=\"tp_add_documents fw-bold\" style=\"cursor: pointer;\"><i "
+"class=\"fa fa-plus-circle\"/> Add Documents</span>"
+msgstr ""
+"<span class=\"tp_add_documents fw-bold\" style=\"cursor: pointer;\"><i "
+"class=\"fa fa-plus-circle\"/> Añadir Documentos</span>"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.shop_layout_filters
+msgid "<span> &amp; above</span>"
+msgstr "<span> &amp; más</span>"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.selected_attributes
+msgid ""
+"<span>&amp; above</span>\n"
+"                            <i class=\"dri dri-cross-l ms-1 tp-attribute-remove\"/>"
+msgstr ""
+"<span>&amp; más</span>\n"
+"                            <i class=\"dri dri-cross-l ms-1 tp-attribute-remove\"/>"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_testimonial_1
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_testimonial_3
+msgid "<span>Apple Ltd.</span>"
+msgstr ""
+

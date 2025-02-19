@@ -1,0 +1,500 @@
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Clients - 4"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_2
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_3
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_4
+msgid "Clogs &amp; Mules"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/js/core/mixins.js:0
+#: code:addons/theme_prime/static/src/js/dialog/cart_confirmation_dialog.xml:0
+#: code:addons/theme_prime/static/src/js/dialog/quick_view_dialog.xml:0
+#: code:addons/theme_prime/static/src/js/sidebar/sidebar.xml:0
+#: model_terms:theme.ir.ui.view,arch:theme_prime.cart_sidebar
+#: model_terms:theme.ir.ui.view,arch:theme_prime.page_sidebars
+#: model_terms:theme.ir.ui.view,arch:theme_prime.shop_layout
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_header_mobile
+msgid "Close"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippet_options
+msgid "Collapse Category Recursive"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/record_selection.xml:0
+msgid "Collection Created"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/record_selection.xml:0
+msgid "Collection Name"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_4
+msgid "Collections"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_heading_options
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_testimonial_options
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippet_options
+msgid "Color"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/search_input.js:0
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippet_options
+msgid "Colors"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/xml/frontend/utils.xml:0
+msgid "Colors:"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_info_block_3
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Coming Soon"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Coming Soon - 1"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Coming Soon - 2"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_coming_soon_2
+msgid "Coming Soon..."
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_3
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_4
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_6
+msgid "Community"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/xml/cards.xml:0
+#: model_terms:theme.ir.ui.view,arch:theme_prime.product
+#: model_terms:theme.ir.ui.view,arch:theme_prime.product_item_actions
+msgid "Compare"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.product_compare
+msgid "Comparison"
+msgstr "Comparación"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_7
+msgid "Complimentary Gift"
+msgstr "Regalo Complemetnario"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_info_block_8
+msgid ""
+"Consectetur, from a Lorem Ipsum passage, and<br/> going through the cites of"
+" the word in classical."
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.product_compare
+#: model_terms:theme.ir.ui.view,arch:theme_prime.product_variant_selector_dialog
+#: model_terms:theme.ir.ui.view,arch:theme_prime.product_wishlist
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_10
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_3
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_4
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_5
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_7
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_8
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_9
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_preheader_style_4
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_preheader_style_6
+#: model_terms:theme.ir.ui.view,arch:theme_prime.tp_product_quick_view
+#: model_terms:theme.ir.ui.view,arch:theme_prime.tp_product_right_panel
+msgid "Contact Us"
+msgstr "Contactanos"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.404
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_2
+msgid "Contact us"
+msgstr "Contactanos"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_call_to_action_2
+msgid "Contact us at"
+msgstr "Contactanos"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_3
+msgid "Contacts"
+msgstr "Contactanos"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippet_options
+msgid "Content - Menus"
+msgstr "Menu de Contenido"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.dynamic_filter_template_blog_post_prime_layout_1
+msgid "Continue Reading"
+msgstr "Continuar leyendo"
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/js/dialog/cart_confirmation_dialog.xml:0
+msgid "Continue Shopping"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/js/dialog/product_share_dialog.js:0
+msgid "Copy Link"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_1
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_10
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_2
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_3
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_4
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_5
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_6
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_7
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_8
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_9
+msgid "Copyright &amp;copy; MyCompany"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/search_input.js:0
+msgid "Count"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Countdown"
+msgstr "Cuenta Regresiva"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Cover - 1"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Cover - 2"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Cover - 3"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Cover - 4"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Cover - 5"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_cover_1
+msgid "Cover Brand Image 01"
+msgstr "Imagen de Marca 01"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_cover_1
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_cover_4
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_d_single_product_cover_snippet
+msgid "Cover Image 01"
+msgstr "Imagen de tapa 01"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_cover_1
+msgid "Cover Image 02"
+msgstr "Imagen de tapa 02"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Covers"
+msgstr "Fundas"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_info_block_2
+msgid "Cras in feugiat eros"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_1
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_3
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_4
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_7
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_8
+msgid "Creative ideas"
+msgstr "Ideas Creativas"
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/js/core/mixins.js:0
+msgid "Currently not in stock."
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_5
+msgid "Customer Care"
+msgstr "Cuidado del Cliente"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_info_block_8
+msgid "Customer Satisfaction"
+msgstr "Sastifacion del Cliente"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_11
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_stats_1
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_stats_5
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_2
+msgid "Customer Support"
+msgstr "Soporte al Cliente"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_stats_1
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_stats_2
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_stats_3
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_stats_5
+msgid "Customers"
+msgstr "Clientes"
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/snippets/s_tp_countdown/000.xml:0
+msgid "DAYS"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/search_input.js:0
+msgid "DESCRIPTION"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_heading_options
+msgid "Danger"
+msgstr "Peligro"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_1
+msgid "Dapibus ac facilisis."
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_heading_options
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_tp_countdown_options
+#: model_terms:theme.ir.ui.view,arch:theme_prime.tp_options
+msgid "Dark"
+msgstr "Oscuro"
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/snippets/s_tp_countdown/000.xml:0
+msgid "Days"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippet_options
+msgid "Default Sort"
+msgstr "Orden Predeterminado"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_2
+msgid "Delivery data"
+msgstr "Datos de Entrega"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_3
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_6
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_7
+msgid "Delivery info"
+msgstr "Informacion de Entrega"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_13
+msgid "Denim Jeans"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/dialog.xml:0
+msgid "Design"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/dialog.xml:0
+msgid "Desktop"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.product
+msgid "Details <i class=\"fa fa-angle-right ms-1\"/>"
+msgstr "Detalles <i class=\"fa fa-angle-right ms-1\"/>"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_stats_2
+msgid "Different content looks good so not repeating the content here."
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_stats_4
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_stats_5
+msgid ""
+"Different content looks good so not repeating the content here. Different "
+"content looks good so not repeating the content here."
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/search_input.js:0
+msgid "Discount"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/search_input.js:0
+msgid "Discounted Best Seller"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/search_input.js:0
+msgid "Discounted Products"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/xml/website_sale.xml:0
+msgid "Discounts on Bulk Orders!"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_1
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_10
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_2
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_3
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_4
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_5
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_7
+msgid "Discover"
+msgstr "Descubre"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_cover_3
+msgid "Discover More"
+msgstr "Descubre Mas"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_13
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_5
+msgid "Discover Now"
+msgstr "Descubre Ahora"
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/js/dialog/pwa_prompt_dialog.xml:0
+msgid "Dismiss"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/ui_component.js:0
+msgid "Display label"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Documents"
+msgstr "Documentos"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_subscribe_4
+msgid "Don't miss out. Stay Informed! Monthly Tips, Tracks, and Discounts."
+msgstr ""
+"¡No te lo pierdas! Mantente informado: consejos, novedades y descuentos "
+"mensuales."
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_testimonial_1
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_testimonial_3
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_testimonial_4
+msgid "Donec Int"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_heading_options
+msgid "Dot Position"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/xml/frontend/documents.xml:0
+msgid "Download"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_2
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_7
+msgid "Download our apps"
+msgstr "Descarga nuestra APP"
+
+#. module: theme_prime
+#: model:ir.model.fields,field_description:theme_prime.field_product_product__dr_has_discount
+#: model:ir.model.fields,field_description:theme_prime.field_product_template__dr_has_discount
+msgid "Dr Has Discount"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.shop_layout
+msgid "Drag building blocks here to customize the footer for \""
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.shop_layout
+msgid "Drag building blocks here to customize the header for \""
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_tp_countdown_options
+msgid "Due Date"
+msgstr "Fecha de Vencimiento"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+#: model_terms:theme.ir.ui.view,arch:theme_prime.tp_options
+msgid "Dynamic"

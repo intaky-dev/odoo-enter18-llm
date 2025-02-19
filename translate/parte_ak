@@ -1,0 +1,500 @@
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/snippets/s_tp_countdown/000.xml:0
+msgid "SECONDS"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/search_input.js:0
+msgid "SIMILAR"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_coming_soon_1
+msgid "STAY TUNED"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_10
+msgid "Safe Payment"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/search_input.js:0
+msgid "Same as Desktop"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_1
+msgid "Samsung"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_3
+msgid "Sandals"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/xml/website_sale.xml:0
+msgid "Save:"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.option_back_to_top
+msgid "Scroll back to top"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/js/sidebar/sidebar.js:0
+#: model_terms:theme.ir.ui.view,arch:theme_prime.404
+#: model_terms:theme.ir.ui.view,arch:theme_prime.component_account_info
+msgid "Search"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/search_input.xml:0
+msgid "Search #{_title} by name"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.all_brands
+msgid "Search brands..."
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_cover_5
+msgid "Search for products, brands and more ..."
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.filter_attribute
+msgid "Search..."
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_heading_options
+msgid "Secondary"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/snippets/s_tp_countdown/000.xml:0
+msgid "Seconds"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_3
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_4
+msgid "Secure online payment"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.shop_category_pills
+msgid "See All <i class=\"fa fa-angle-right ms-1\"/>"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_10
+msgid "See Our Stores"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/js/searchbar/searchbar.xml:0
+msgid "See all products"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/xml/frontend/dynamic_snippets.xml:0
+msgid "See more"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/js/dialog/pwa_prompt_dialog.xml:0
+msgid "Select Add to Home Screen"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/search_input.js:0
+msgid "Select any template and modify as per your need."
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/record_selection.xml:0
+msgid "Selected Records"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/dialog.xml:0
+msgid "Selection"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/record_selection.xml:0
+msgid "Selection Mode:"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/search_input.xml:0
+msgid "Selection Rules"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/ui_component.js:0
+msgid "Sequence"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/search_input.xml:0
+msgid "Set"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/search_input.xml:0
+msgid "Set time"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.product_add_to_wishlist
+msgid "Share"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/js/dialog/product_share_dialog.xml:0
+msgid "Share:"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_2
+msgid "Shipping Info"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_9
+msgid "Shirts, Jeans &amp; Waistcoats"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.product
+#: model_terms:theme.ir.ui.view,arch:theme_prime.shop_layout
+msgid "Shop"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/js/frontend/dynamic_snippets.js:0
+msgid "Shop By Brands"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/js/frontend/dynamic_snippets.js:0
+msgid "Shop By Categories"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/xml/frontend/hierarchical_category_templates.xml:0
+#: model_terms:theme.ir.ui.view,arch:theme_prime.cart_sidebar
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_1
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_10
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_12
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_13
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_2
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_call_to_action_1
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_cover_1
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_cover_4
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_d_image_products_block
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_d_single_category_snippet
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_info_block_1
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_info_block_2
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_info_block_3
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_info_block_4
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_info_block_5
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_info_block_6
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_info_block_7
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_shop_offer_1
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_shop_offer_4
+msgid "Shop Now"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Shop Offer - 1"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Shop Offer - 2"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Shop Offer - 3"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Shop Offer - 4"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Shop Offer - 5"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_shop_offer_3
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_shop_offer_4
+msgid "Shop Offer Image 01"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Shop Offers"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_2
+msgid "Shop departments"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/xml/frontend/dynamic_snippets.xml:0
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_14
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_image_product_listing_cards
+msgid "Shop now"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.product_item_actions
+#: model_terms:theme.ir.ui.view,arch:theme_prime.product_item_grid_1
+#: model_terms:theme.ir.ui.view,arch:theme_prime.product_item_grid_2
+#: model_terms:theme.ir.ui.view,arch:theme_prime.product_item_list_1
+msgid "Shopping cart"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_heading_options
+msgid "Short"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/xml/cards.xml:0
+msgid "Show Similar Products"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/search_input.js:0
+msgid "Show best seller products based on last 30 days sales"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/search_input.js:0
+msgid ""
+"Show best seller products based on last 30 days sales from selected brands."
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/search_input.js:0
+msgid ""
+"Show best seller products based on last 30 days sales from selected "
+"categories."
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/search_input.js:0
+msgid ""
+"Show best seller products based on last 30 days sales from selected label."
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/search_input.js:0
+msgid ""
+"Show best seller products based on last 30 days sales from selected tags."
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/search_input.js:0
+msgid "Show best seller products with discount"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/search_input.js:0
+msgid "Show best seller products with discount from the selected brands"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/search_input.js:0
+msgid "Show best seller products with discount from the selected categories"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/search_input.js:0
+msgid "Show best seller products with discount from the selected label"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/search_input.js:0
+msgid "Show best seller products with discount from the selected tags"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/search_input.js:0
+msgid "Show discounted products based on product pricelist"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/search_input.js:0
+msgid ""
+"Show discounted products based on product pricelist from selected brands."
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/search_input.js:0
+msgid ""
+"Show discounted products based on product pricelist from selected categories"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/search_input.js:0
+msgid ""
+"Show discounted products based on product pricelist from selected label"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/search_input.js:0
+msgid "Show discounted products based on product pricelist from selected tags"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/search_input.js:0
+msgid "Show newly arrived products based on creation date"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/search_input.js:0
+msgid "Show newly arrived products from selected brands"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/search_input.js:0
+msgid "Show newly arrived products from selected categories"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/search_input.js:0
+msgid "Show newly arrived products from selected label."
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/search_input.js:0
+msgid "Show newly arrived products from selected tags"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.tp_options
+msgid "Show variant image"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippet_options
+msgid "Show/hide logo"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippet_options
+msgid "Show/hide sign in button"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.shop_layout
+msgid "Showing"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/js/core/mixins.js:0
+msgid "Sign Up"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_subscribe_3
+msgid ""
+"Sign up for all the news about our latest arrivals and get an exclusive "
+"early access shopping."
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/js/sidebar/sidebar.js:0
+#: model_terms:theme.ir.ui.view,arch:theme_prime.product
+msgid "Similar Products"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/search_input.js:0
+#: code:addons/theme_prime/static/src/components/ui_component.js:0
+msgid "Slider"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippet_options
+msgid "Small"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_1
+msgid "Smartphone"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_2
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_3
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_5
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_6
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_7
+msgid "Sneakers &amp; Athletic"
+msgstr ""
+

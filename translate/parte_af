@@ -1,0 +1,500 @@
+msgstr "Dinamico"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_heading_2
+msgid "EXPLORE GREAT RANGE OF PRODUCTS"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_11
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_2
+msgid "Easy Returns"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_testimonial_options
+msgid "Edge Spacing"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/search_input.xml:0
+msgid "Edit"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.page_sidebars
+msgid "Edit Profile"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippet_options
+msgid "Elements"
+msgstr "Elementos"
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/js/dialog/product_share_dialog.xml:0
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_6
+msgid "Email"
+msgstr "Correo"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.tp_options
+msgid "Enable Lazy Loading"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.tp_options
+msgid "Enable hotspot"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/ui_component.js:0
+msgid "End Date:"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/js/website_sale.js:0
+msgid "Enter valid value."
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_10
+msgid "Enter your email below to know latest collection and product launch."
+msgstr ""
+"Ingresa tu correo electrónico a continuación para conocer la última "
+"colección y el lanzamiento de productos."
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_1
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_3
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_4
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_7
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_8
+msgid "Excellent features"
+msgstr "Exelente Funcionalidades"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_1
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_2
+msgid "Expert"
+msgstr "Experto"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_header_mobile
+msgid "Explore All Categories"
+msgstr "Explorar todas las Categorias"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_3
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_4
+msgid "Extensive documentation"
+msgstr "Documetnacion extendida"
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/dialog.xml:0
+msgid "Extra"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_4
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_5
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_preheader_style_4
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_preheader_style_6
+msgid "FAQ"
+msgstr "Preguntas Frecuentes (FAQ)"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.filter_attribute_range
+msgid "FILTER"
+msgstr "FILTRO"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_9
+msgid "FREE RETURNS"
+msgstr "DEVOLUCION GRATIS"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_9
+msgid "FREE SHIPPING"
+msgstr "ENVIO GRATIS"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_9
+msgid "FREE SUPPORT"
+msgstr "SOPORTE GRATIS"
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/js/dialog/product_share_dialog.xml:0
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_coming_soon_1
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_cover_5
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_subscribe_1
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_subscribe_3
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_subscribe_4
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_team_4
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_1
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_2
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_3
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_4
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_5
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_6
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_7
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_8
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_9
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_header_style_1
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_preheader_style_4
+msgid "Facebook"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_gallery_4
+msgid "Fashion card"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_info_block_8
+msgid "Fast Service"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_10
+msgid "Fast Shipping"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_3
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_4
+msgid "Fast and free delivery"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_5
+msgid "Featured"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_d_2_column_snippet
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_heading_3
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_heading_6
+msgid "Featured Products"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/search_input.xml:0
+msgid "Field :"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/js/website_sale.js:0
+msgid "Filters"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_10
+msgid ""
+"Find a location nearest<br/>\n"
+"                                        you."
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_13
+msgid "Find your perfect outfit"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.404
+msgid "Find your product"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_7
+msgid "Flat 50% Off"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_cover_2
+msgid "Flexible Styled Collection By Prime"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_subscribe_3
+msgid "Follow Us"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_1
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_2
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_3
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_5
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_7
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_8
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_9
+msgid "Follow Us On"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_cover_5
+msgid "Follow Us On:"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_team_4
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_4
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_6
+msgid "Follow us"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_2
+msgid "Footwear"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_d_single_category_snippet
+msgid "For Women"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_3
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_4
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_5
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_6
+msgid "Forums"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_10
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_11
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_info_block_8
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_shop_offer_2
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_2
+msgid "Free Delivery"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_cover_3
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_10
+msgid "Free Returns"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_preheader_style_4
+msgid "Free Returns. Standard Shipping. Orders $99."
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_cover_3
+msgid "Free Shipping"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_cover_3
+msgid "Free Support"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_3
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_4
+msgid "Free delivery for all orders"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_preheader_style_6
+msgid "Free shipping for all order of $150"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_5
+msgid "Fresh Arrival"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_cover_1
+msgid "Fresh Collection"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_cover_3
+msgid "Fresh Collection By Prime"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_11
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_2
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_3
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_4
+msgid "Friendly 24/7 customer support"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.filter_attribute_range
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_2
+msgid "From"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_13
+msgid "From world's top designer"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_1
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_3
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_4
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_7
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_8
+msgid "Fully responsive"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_cover_2
+msgid "GET FLAT 20% OFF"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Gallery"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Gallery -"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Gallery - 2"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Gallery - 3"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Gallery - 4"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Gallery - 5"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_gallery_1
+msgid "Gallery Image #{img}"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_gallery_2
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_gallery_3
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_gallery_4
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_gallery_5
+msgid "Gallery Image #{number}"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_info_block_8
+msgid "Genuine Product"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_12
+msgid "Get 10% Off"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_12
+msgid "Get 15% Off"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_shop_offer_2
+msgid "Get 30-day money-back guarantee"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_12
+msgid "Get Best Burger"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_12
+msgid "Get Big Pizzas"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_11
+msgid "Get discount on shoes on order above $150."
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_call_to_action_3
+msgid "Get in touch"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.404
+msgid "Get in touch with us"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_shop_offer_3
+msgid "Get it Now"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_coming_soon_1
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_cover_5
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_subscribe_1
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_subscribe_3
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_subscribe_4
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_1
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_2
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_3
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_5
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_7
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_8
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_9
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_header_style_1
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_preheader_style_4
+msgid "GitHub"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/js/dialog/pwa_prompt_dialog.xml:0
+msgid "Got it"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.tp_snippet_options_background_options
+msgid "Gradient Animation"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/search_input.js:0
+#: code:addons/theme_prime/static/src/components/ui_component.js:0
+msgid "Grid"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.shop_layout
+msgid "Grid View"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.page_sidebars
+msgid "Guest"
+msgstr ""
+
+#. module: theme_prime

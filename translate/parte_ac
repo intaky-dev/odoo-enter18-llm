@@ -1,0 +1,500 @@
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.shop_layout_filters
+msgid "<span>Availability</span>"
+msgstr "<span>Disponibilidad</span>"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.all_brands
+msgid "<span>Brands</span>"
+msgstr "<span>Marcas</span>"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.shop_layout_filters
+msgid "<span>Categories</span>"
+msgstr "<span>Categorías</span>"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.selected_attributes
+msgid ""
+"<span>Clear Filters</span>\n"
+"                            <i class=\"dri dri-cross-l ms-1 tp-attribute-remove\"/>"
+msgstr ""
+"<span>Limpiar filtros</span>\n"
+"                            <i class=\"dri dri-cross-l ms-1 tp-attribute-remove\"/>"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_testimonial_4
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_testimonial_5
+msgid "<span>Designer</span>"
+msgstr "<span>Diseñador</span>"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_testimonial_4
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_testimonial_5
+msgid "<span>Developer</span>"
+msgstr "<span>Desarrollador</span>"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_testimonial_1
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_testimonial_3
+msgid "<span>Droggol</span>"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_cover_4
+msgid "<span>Full battery in no time</span>"
+msgstr "<span>Batería completa en poco tiempo</span>"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_testimonial_1
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_testimonial_3
+msgid "<span>Google Inc.</span>"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_cover_4
+msgid "<span>More content</span>"
+msgstr "<span>Más contenido</span>"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_cover_4
+msgid "<span>Powerful Performance</span>"
+msgstr "<span>Rendimiento potente</span>"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.shop_layout_filters
+msgid "<span>Price</span>"
+msgstr "<span>Precio</span>"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.shop_layout_filters
+msgid "<span>Rating</span>"
+msgstr "<span>Valoración</span>"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.shop_layout_filters
+msgid "<span>Tags</span>"
+msgstr "<span>Etiquetas</span>"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_testimonial_4
+msgid "<span>Tester</span>"
+msgstr "<span>Probador</span>"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_cover_4
+msgid "<span>With super Macro Lens</span>"
+msgstr "<span>Con super lente macro</span>"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_header_style_3
+msgid "<strong>CONTACT US</strong>"
+msgstr "<strong>CONTACTANOS</strong>"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_header_style_3
+msgid "<strong>SPECIAL OFFER</strong>"
+msgstr "<strong>OFERTA ESPECIAL</strong>"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.tp_product_right_panel
+msgid "A short description that will also appear on documents."
+msgstr "Una breve descripción que también aparecerá en los documentos."
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.tp_options
+msgid "ADD HOTSPOT"
+msgstr "AGREGAR PUNTO CALIENTE"
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/search_input.js:0
+#: code:addons/theme_prime/static/src/xml/cards.xml:0
+#: code:addons/theme_prime/static/src/xml/frontend/2_col_deal.xml:0
+msgid "ADD TO CART"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_10
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_3
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_4
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_5
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_6
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_7
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_8
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_9
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_preheader_style_4
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_preheader_style_6
+msgid "About Us"
+msgstr "Sobre Nosotros"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_2
+msgid "About us"
+msgstr "Sobre nosotros"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_heading_1
+msgid "Access wide range of products"
+msgstr "Accede a una amplia gama de productos"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_1
+msgid "Accessorie"
+msgstr "Accesorio"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_13
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_4
+msgid "Accessories"
+msgstr "Accesorios"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.product
+msgid "Accessory Products"
+msgstr "Productos Accesorios"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.component_account_info
+#: model_terms:theme.ir.ui.view,arch:theme_prime.tp_mobile_bottombar_component
+msgid "Account"
+msgstr "Cuenta"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_2
+msgid "Account &amp; other info"
+msgstr "Cuenta y otra información"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.component_account_info
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_3
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_6
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_7
+#: model_terms:theme.ir.ui.view,arch:theme_prime.tp_mobile_bottombar_component
+msgid "Account Info"
+msgstr "Información de la Cuenta"
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/js/dialog/pwa_prompt_dialog.xml:0
+msgid "Add"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/search_input.xml:0
+msgid "Add New Rule"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_13
+msgid "Add finishing touch to your outfit"
+msgstr "Añadir el toque final a tu atuendo"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.cart_sidebar
+#: model_terms:theme.ir.ui.view,arch:theme_prime.product_variant_selector_dialog
+#: model_terms:theme.ir.ui.view,arch:theme_prime.tp_product_quick_view
+#: model_terms:theme.ir.ui.view,arch:theme_prime.tp_product_right_panel
+msgid "Add one"
+msgstr "Añadir uno"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.product_wishlist
+msgid "Add product to my cart but keep it in my wishlist"
+msgstr "Agregar producto a mi carrito pero mantenerlo en mi lista de deseos"
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/xml/cards.xml:0
+#: code:addons/theme_prime/static/src/xml/frontend/2_col_deal.xml:0
+#: code:addons/theme_prime/static/src/xml/frontend/dynamic_snippets.xml:0
+#: code:addons/theme_prime/static/src/xml/listing_cards.xml:0
+msgid "Add to Cart"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.product_item_actions
+msgid "Add to Compare"
+msgstr "Agregar a comparar"
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/xml/cards.xml:0
+#: code:addons/theme_prime/static/src/xml/listing_cards.xml:0
+#: model_terms:theme.ir.ui.view,arch:theme_prime.product_item_actions
+msgid "Add to Wishlist"
+msgstr "Agregar a la lista de deseos"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.tp_product_quick_view
+msgid "Add to wishlist"
+msgstr "Agregar a la lista de deseos"
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/js/dialog/cart_confirmation_dialog.xml:0
+msgid "Added successfully to cart."
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/js/core/mixins.js:0
+msgid "Added to your cart."
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/js/core/product_root_widget.js:0
+msgid "Added to your wishlist."
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_6
+msgid "Address"
+msgstr "Dirección"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.tp_options
+msgid "Adjust Height/Width"
+msgstr "Ajustar altura/ancho"
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/record_selection.js:0
+msgid "Advance"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_1
+msgid "Advanced"
+msgstr "Avanzado"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_5
+msgid "Advanced Pass"
+msgstr "Pase Avanzado"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_3
+msgid ""
+"Aenean varius ligula vel augue condimentum scelerisque. In a urna at tortor "
+"tincidunt gravida sit amet vel eros. Integer et."
+msgstr "Variante de la línea con enfoque en el diseño de pruebas."
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_4
+msgid ""
+"Aenean varius ligula vel augue condimentum scelerisque. In a urna at tortor "
+"tincidunt gravida sit."
+msgstr "Variante de la línea con ajustes dinámicos."
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_heading_options
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_tp_countdown_options
+msgid "Alignment"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/search_input.xml:0
+#: code:addons/theme_prime/static/src/xml/frontend/hierarchical_category_templates.xml:0
+#: model_terms:theme.ir.ui.view,arch:theme_prime.all_brands
+msgid "All"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/ui_component.js:0
+msgid "All Pricelist"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.shop_category_pills
+#: model_terms:theme.ir.ui.view,arch:theme_prime.shop_layout
+#: model_terms:theme.ir.ui.view,arch:theme_prime.shop_layout_filters
+msgid "All Products"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_10
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_11
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_2
+msgid "All oders over $100"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/xml/core/snippet_root_widget.xml:0
+msgid "All products"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.shop_layout
+msgid "All products are loaded."
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_4
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_5
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_7
+msgid "All services"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_info_block_8
+msgid ""
+"All the lorem ipsum generators on the Internet<br/> tend to repeat "
+"predefined chunks as necessary."
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_9
+msgid "Amazing beauty products"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_1
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_10
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_2
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_3
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_4
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_5
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_7
+msgid "American Express"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/search_input.xml:0
+msgid "Any"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_1
+msgid "Apple"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/ui_component.xml:0
+msgid "Apply different configuration for mobile."
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/ui_component.xml:0
+msgid "Apply different configuration to each category."
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.cart_sidebar
+msgid "Apply promo code"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_coming_soon_1
+msgid "Are you ready?"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_tp_countdown
+msgid "As promised, we will offer surprise coupon for our next sale."
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_2
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_3
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_5
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_6
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_7
+msgid "Athletic Apparel"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/search_input.js:0
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippet_options
+msgid "Attributes"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_testimonial_1
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_testimonial_2
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_testimonial_3
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_testimonial_4
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_testimonial_5
+msgid "Author Image 01"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_testimonial_1
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_testimonial_3
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_testimonial_4
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_testimonial_5
+msgid "Author Image 02"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_testimonial_1
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_testimonial_3
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_testimonial_4
+msgid "Author Image 03"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/record_selection.js:0
+msgid "Availability"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_preheader_style_2
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_preheader_style_5
+msgid "Available 24/7 at <b>(001) 123-4567</b>"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/xml/cards.xml:0
+msgid "BUY"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/js/sidebar/sidebar.xml:0
+msgid "Back"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.product
+msgid "Back to products"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippet_options
+msgid "Back to top button"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_2
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_3
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_4
+msgid "Bags"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Banner - 1"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Banner - 10"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Banner - 11"
+msgstr ""
+

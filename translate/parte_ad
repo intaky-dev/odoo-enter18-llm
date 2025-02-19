@@ -1,0 +1,500 @@
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Banner - 12"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Banner - 13"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Banner - 14"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Banner - 15"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Banner - 2"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Banner - 3"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Banner - 4"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Banner - 5"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Banner - 6"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Banner - 7"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Banner - 8"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Banner - 9"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_6
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_7
+msgid "Banner Brand Image 01"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_6
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_7
+msgid "Banner Brand Image 02"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_6
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_7
+msgid "Banner Brand Image 03"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_11
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_12
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_15
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_3
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_4
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_6
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_7
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_8
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_9
+msgid "Banner Image 01"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_11
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_12
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_3
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_4
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_6
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_7
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_8
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_9
+msgid "Banner Image 02"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_3
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_4
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_6
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_7
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_8
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_9
+msgid "Banner Image 03"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Banners"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_4
+msgid "Basic"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_5
+msgid "Basic Pass"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_subscribe_3
+msgid "Be the first to find out all the latest news, products and trends."
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_1
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_2
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_3
+msgid "Beginner"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_3
+msgid "Belts"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_cover_5
+msgid "Best Products In Every Categories."
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_2
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_shop_offer_5
+msgid "Best Quality"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/search_input.js:0
+#: code:addons/theme_prime/static/src/js/frontend/dynamic_snippets.js:0
+msgid "Best Seller"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/js/frontend/dynamic_snippets.js:0
+msgid "Best Sellers"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/search_input.js:0
+#: code:addons/theme_prime/static/src/components/ui_component.js:0
+msgid "Bestseller"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/search_input.js:0
+msgid "Bg. Image"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_2
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_3
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_4
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_5
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_6
+msgid "Blog"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_info_block_6
+msgid "Bluetooth Headset"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_heading_options
+msgid "Bold"
+msgstr "Negrita"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippet_options
+msgid "Border Radius"
+msgstr "Radio de borde"
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/record_selection.js:0
+#: code:addons/theme_prime/static/src/components/search_input.js:0
+msgid "Brand"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/search_input.js:0
+msgid "Brand Best Seller"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/search_input.js:0
+msgid "Brand Discounted Best Seller"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/search_input.js:0
+msgid "Brand Discounted Products"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/search_input.js:0
+msgid "Brand New Arrival"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_14
+msgid "Brand New Shoes On Sale"
+msgstr "Zapatos nuevos de marca en oferta"
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/search_input.js:0
+#: code:addons/theme_prime/static/src/js/searchbar/searchbar.xml:0
+#: model_terms:theme.ir.ui.view,arch:theme_prime.all_brands
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_1
+msgid "Brands"
+msgstr "Marcas"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_3
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_4
+msgid "Business"
+msgstr "Negocios"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.tp_options
+msgid "Button"
+msgstr "Botón"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.tp_options
+msgid "Button Text"
+msgstr "Texto del botón"
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/xml/cards.xml:0
+#: code:addons/theme_prime/static/src/xml/frontend/dynamic_snippets.xml:0
+msgid "Buy"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/search_input.js:0
+msgid "CATEGORY"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/dialog.xml:0
+msgid "CLOSE"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/search_input.js:0
+msgid "COMPARE"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_call_to_action_5
+msgid "CTA Image 01"
+msgstr "Imagen CTA 01"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "CTAs"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Call To Action - 1"
+msgstr "Llamado a la acción - 1"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Call To Action - 2"
+msgstr "Llamado a la acción - 2"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Call To Action - 3"
+msgstr "Llamado a la acción - 3"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Call To Action - 4"
+msgstr "Llamado a la acción - 4"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Call To Action - 5"
+msgstr "Llamado a la acción - 5"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_header_style_3
+msgid "Call Us"
+msgstr "Llámanos"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_1
+msgid "Camera"
+msgstr "Cámara"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_4
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_5
+msgid "Careers"
+msgstr "Carreras"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_10
+msgid "Cart"
+msgstr "Carrito"
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/js/dialog/cart_confirmation_dialog.xml:0
+msgid "Cart Total:"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/record_selection.js:0
+#: code:addons/theme_prime/static/src/components/search_input.js:0
+#: code:addons/theme_prime/static/src/js/searchbar/searchbar.xml:0
+#: code:addons/theme_prime/static/src/js/sidebar/sidebar.xml:0
+#: model_terms:theme.ir.ui.view,arch:theme_prime.shop_category_pills
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippet_options
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_3
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_4
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_5
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_6
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_7
+msgid "Categories"
+msgstr "Categorías"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Categories & Brands"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippet_options
+msgid "Categories - Info"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippet_options
+msgid "Categories Listing"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/record_selection.js:0
+#: code:addons/theme_prime/static/src/components/search_input.js:0
+msgid "Category"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/search_input.js:0
+msgid "Category Best Seller"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/search_input.js:0
+msgid "Category Discounted Best Seller"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/search_input.js:0
+msgid "Category Discounted Products"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/search_input.js:0
+msgid "Category New Arrival"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.page_sidebars
+msgid "Change Password"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/js/core/mixins.js:0
+msgid "Check again later."
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/js/core/mixins.js:0
+msgid "Checkout"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/ui_component.js:0
+msgid "Child Order"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_4
+msgid "Children"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/search_input.js:0
+msgid "Choose Template"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_3
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_4
+msgid "Clean code"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/record_selection.xml:0
+msgid "Clear Selection"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.shop_layout
+msgid ""
+"Click<i>'New'</i> in the top-right corner to create your first product."
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_clients_4
+msgid "Client Image #{client}"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_clients_1
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_clients_2
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_clients_3
+msgid "Client Image #{number}"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Clients"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Clients - 1"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Clients - 2"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Clients - 3"
+msgstr ""
+

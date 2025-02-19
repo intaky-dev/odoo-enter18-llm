@@ -1,0 +1,500 @@
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Testimonial - 2"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Testimonial - 3"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Testimonial - 4"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Testimonial - 5"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "Testimonials"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_coming_soon_1
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_coming_soon_2
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_subscribe_1
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_subscribe_2
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_subscribe_3
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_subscribe_4
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_1
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_10
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_2
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_3
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_5
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_6
+msgid "Thanks!"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_tp_countdown
+msgid ""
+"The following message will become visible <strong>only</strong> once the "
+"countdown ends."
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_tp_countdown_options
+#: model_terms:theme.ir.ui.view,arch:theme_prime.tp_options
+msgid "Theme"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/js/editor/snippets.editor.js:0
+msgid "Theme Prime Options"
+msgstr ""
+
+#. module: theme_prime
+#: model:ir.model,name:theme_prime.model_theme_utils
+msgid "Theme Utils"
+msgstr "Herramientas del tema"
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/js/dialog/cart_confirmation_dialog.xml:0
+msgid "There are"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_heading_options
+msgid "Thickness"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/xml/core/snippet_root_widget.xml:0
+msgid ""
+"This block is depricated in theme prime Odoo version 18.0. We have more cool"
+" things in this version."
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.product_variant_selector_dialog
+#: model_terms:theme.ir.ui.view,arch:theme_prime.tp_product_quick_view
+#: model_terms:theme.ir.ui.view,arch:theme_prime.tp_product_right_panel
+msgid "This combination does not exist."
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_stats_2
+msgid "This is the last paragraph, and i am out of idea what to write."
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_stats_4
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_stats_5
+msgid ""
+"This is the last paragraph, and i am out of idea what to write. This is the "
+"last paragraph, and i am out of idea what to write."
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.product_variant_selector_dialog
+#: model_terms:theme.ir.ui.view,arch:theme_prime.tp_product_quick_view
+#: model_terms:theme.ir.ui.view,arch:theme_prime.tp_product_right_panel
+msgid "This product has no valid combination."
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.product_variant_selector_dialog
+#: model_terms:theme.ir.ui.view,arch:theme_prime.tp_product_quick_view
+#: model_terms:theme.ir.ui.view,arch:theme_prime.tp_product_right_panel
+msgid "This product is no longer available."
+msgstr "Este producto no esta disponible"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.product_item_grid_1
+#: model_terms:theme.ir.ui.view,arch:theme_prime.product_item_grid_2
+#: model_terms:theme.ir.ui.view,arch:theme_prime.product_item_list_1
+msgid "This product is unpublished."
+msgstr "Este producto esta sin publicar"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.tp_options
+msgid "Title"
+msgstr "Titulo"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.filter_attribute_range
+msgid "To"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_stats_2
+msgid "To break the lines we are writing some random string here."
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_stats_4
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_stats_5
+msgid ""
+"To break the lines we are writing some random string here. To break the "
+"lines we are writing some random string here."
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/xml/cards.xml:0
+msgid "To cart"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_header_mobile
+msgid "Toggle navigation"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.tp_options
+msgid "Top"
+msgstr "Arriba"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippet_options
+msgid "Top Bar"
+msgstr "Barra Superior"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_6
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_2
+msgid "Trending Collection"
+msgstr "Colecciones Populares"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_1
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_2
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_d_image_products_block
+msgid "Trending Products"
+msgstr "Productos Populares"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_info_block_5
+msgid "Trendy Collection"
+msgstr "Coleccion Popular"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.tp_options
+msgid "Type"
+msgstr "Tipo"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.product_label
+msgid "UNITS LEFT"
+msgstr "UNIDADES RESTANTES"
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/dialog.xml:0
+#: code:addons/theme_prime/static/src/js/core/product_root_widget.js:0
+msgid "Undo"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/record_selection.xml:0
+msgid "Units Left"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.product_item_grid_1
+#: model_terms:theme.ir.ui.view,arch:theme_prime.product_item_grid_2
+#: model_terms:theme.ir.ui.view,arch:theme_prime.product_item_list_1
+msgid "Unpublished"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_11
+msgid "Up To 10% Off"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_11
+msgid "Up To 20% Off"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_8
+msgid "Up To 25% Off"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_8
+msgid "Up To 40% Off"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_8
+msgid "Up To 50% Off"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_7
+msgid "Up To 60% Off"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_10
+msgid "Up to 20% off on all products."
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_13
+msgid "Up to 70% off on selected item"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_shop_offer_1
+msgid "Up to <span class=\"text-o-color-1\">20%</span> off"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_3
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_4
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_6
+msgid "Useful Links"
+msgstr "Links utiles"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_5
+msgid ""
+"Ut ac pellentesque tortor. Sed fringilla nibh vel urna porttitor feugiat sit"
+" amet ac ex. Duis ut mattis est, eget venenatis leo. Sed et facilisis leo. "
+"Class aptent taciti sociosqu."
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_1
+msgid "Ut efficitur sem sed."
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/search_input.xml:0
+msgid "Value :"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/record_selection.js:0
+#: code:addons/theme_prime/static/src/components/search_input.js:0
+msgid "Variants"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_info_block_2
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_info_block_3
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_info_block_5
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_info_block_6
+msgid ""
+"Vestibulum id laoreet sapien. Aliquam porttitor neque ut urna efficitur, "
+"eget tincidunt diam convallis. Vestibulum molestie nunc consectetur cursus "
+"tincidunt. Aenean interdum justo a tellus condimentum gravida."
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_info_block_4
+msgid ""
+"Vestibulum id laoreet sapien. Aliquam porttitor neque ut urna efficitur, eget tincidunt diam convallis.<br/>\n"
+"                            interdum justo a tellus condimentum gretur cursus tincidunt. Aenean interdum justo a tellus condimentum gravida.<br/>\n"
+"                            cursus id laoreet sapien. Aliquam porttitor neque ut urna efficitur, eget tincidunt diam convallis.<br/>\n"
+"                            tellus justo a tellus condimentum gretur cursus tincidunt. Aenean interdum justo a tellus condimentum gravida."
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/js/core/mixins.js:0
+#: code:addons/theme_prime/static/src/xml/cards.xml:0
+#: model_terms:theme.ir.ui.view,arch:theme_prime.shop_layout
+msgid "View"
+msgstr "Vista"
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/js/dialog/cart_confirmation_dialog.xml:0
+msgid "View Cart"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_4
+msgid "View More"
+msgstr "Ver Mas"
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/xml/frontend/dynamic_snippets.xml:0
+#: code:addons/theme_prime/static/src/xml/frontend/s_category.xml:0
+msgid "View Products"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.product_item_actions
+msgid "View Similar Products"
+msgstr "Ver Productos Similares"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_header_style_4
+msgid "View Wishlist"
+msgstr "Ver lista de Desados"
+
+#. module: theme_prime
+#. odoo-python
+#: code:addons/theme_prime/controllers/main.py:0
+msgid "View all products with"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-python
+#: code:addons/theme_prime/controllers/main.py:0
+msgid "View all products with category"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/js/core/mixins.js:0
+msgid "View cart"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_1
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_10
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_2
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_3
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_4
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_5
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_7
+msgid "Visa"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/ui_component.xml:0
+msgid "Visibility Configurations"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/ui_component.xml:0
+msgid "Visibility options aren't available in the playground!"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/ui_component.js:0
+msgid "Visible for Pricelist:"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/ui_component.js:0
+msgid "Visitors see snippet after"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/ui_component.js:0
+msgid "Visitors won't see snippet after"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_testimonial_1
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_testimonial_3
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_testimonial_4
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_testimonial_5
+msgid "Vivamus Tem"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_5
+msgid ""
+"Vivamus at tempor arcu. Vestibulum fermentum facilisis dui, vitae iaculis "
+"purus accumsan quis. Quisque sit amet dignissim justo. Nullam ac sodales "
+"lorem, id volutpat arcu. Sed justo neque."
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_coming_soon_1
+msgid "WE ARE LAUNCHING SOON!"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/search_input.js:0
+msgid "WISHLIST"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_heading_options
+msgid "Warning"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_1
+msgid "Watch"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_1
+msgid "We Accept"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_2
+msgid "We accept"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_heading_3
+msgid "We add new products every day. Explore our great range of products."
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_6
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_7
+msgid ""
+"We are a team of passionate people whose goal is to improve everyone's life "
+"through disruptive products. We build great products to solve your business "
+"problems."
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_5
+msgid ""
+"We are a team of passionate people whose goal is to improve everyone's life "
+"through disruptive products. We build great products to solve your business "
+"problems. Our products are designed for small to medium size companies "
+"willing to optimize their performance."
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_coming_soon_2
+msgid ""
+"We are glad to see you, but please be patient. This page is under "
+"construction."
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_info_block_7
+msgid ""
+"We are the creative team of theme prime. No one actually read this so let me"
+" write any thing here until it paragraph breaks into to multiple lines. "
+"Thanks for reading this."
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_call_to_action_3
+msgid ""
+"We are the creative team of theme prime. No one actually read this so let me"
+" write any thing here until the content is long enough to break this lines "

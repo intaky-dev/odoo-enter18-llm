@@ -1,0 +1,500 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* theme_prime
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 18.0+e-20250106\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-02-19 03:53+0000\n"
+"PO-Revision-Date: 2025-02-19 03:53+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.shop_layout
+msgid "\" category."
+msgstr "\" categoría."
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_testimonial_1
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_testimonial_3
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_testimonial_4
+msgid ""
+"\"Etiam semper molestie sapien a egestas. In consequat venenatis ex, sit "
+"amet ultrices ante pretium et. Suspendisse nec hendrerit nulla, vitae "
+"convallis risus. Morbi quis tincidunt magna. Sed nec libero.\""
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_testimonial_3
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_testimonial_4
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_testimonial_5
+msgid ""
+"\"Fusce sagittis ac orci sed tristique. Suspendisse a lobortis augue. "
+"Maecenas scelerisque varius mattis. Sed auctor fermentum libero, sed "
+"ullamcorper elit laoreet venenatis. Cras ac ex enim. Suspendisse sodales "
+"volutpat.\""
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_testimonial_1
+msgid ""
+"\"Fusce sagittis ac orci sed tristique. Suspendisse a lobortis augue. "
+"Maecenas scelerisque varius mattis. Sed auctor fermentum libero, sed "
+"ullamcorper elit laoreet venenatis. Cras ac ex enim. Suspendisse sodales.\""
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_testimonial_2
+msgid ""
+"\"Proin a nisi id turpis pharetra fermentum ac eu sem. Morbi ullamcorper mi "
+"quis porttitor interdum. Maecenas luctus varius interdum. Duis commodo "
+"tincidunt velit non bibendum. Phasellus placerat sodales nunc. Proin a nisi "
+"id turpis pharetra fermentum ac eu sem. Morbi ullamcorper mi quis porttitor "
+"interdum.\""
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_testimonial_1
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_testimonial_3
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_testimonial_4
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_testimonial_5
+msgid ""
+"\"Proin a nisi id turpis pharetra fermentum ac eu sem. Morbi ullamcorper mi "
+"quis porttitor interdum. Maecenas luctus varius interdum. Duis commodo "
+"tincidunt velit non bibendum. Phasellus placerat sodales nunc.\""
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.product_item_grid_1
+#: model_terms:theme.ir.ui.view,arch:theme_prime.product_item_grid_2
+msgid "#{rating_stats['total']} Reviews"
+msgstr "#{rating_stats['total']} Reseñas"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_3
+msgid "$ 15.80"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_3
+msgid "$ 21.00"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_3
+msgid "$ 8.80"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_1
+msgid "$20.50"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_2
+msgid "$330.00"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_1
+msgid "$35.00"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_1
+msgid "$42.00"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_2
+msgid "$430.00"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_2
+msgid "$530.00"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_1
+msgid "$9.99"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/xml/frontend/image_hotspot.xml:0
+msgid "% OFF"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.discount_percentage
+#: model_terms:theme.ir.ui.view,arch:theme_prime.product_item_price
+msgid "% OFF)"
+msgstr "% DESCUENTO)"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.product
+#: model_terms:theme.ir.ui.view,arch:theme_prime.tp_product_quick_view
+#: model_terms:theme.ir.ui.view,arch:theme_prime.tp_product_right_panel
+msgid "%s review"
+msgstr "%s reseña"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.product
+#: model_terms:theme.ir.ui.view,arch:theme_prime.tp_product_quick_view
+#: model_terms:theme.ir.ui.view,arch:theme_prime.tp_product_right_panel
+msgid "%s reviews"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.product_item_price
+msgid "&amp;nbsp;"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/js/searchbar/searchbar.xml:0
+msgid "'. Showing results for '"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/js/website_sale.js:0
+msgid "(%s% OFF)"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_5
+msgid "(+800) 123 456 789"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.cart_sidebar
+msgid "(Clear Cart)"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_6
+msgid "+ Explore Now"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_7
+msgid "+ Shop Now"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_1
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_10
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_3
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_4
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_5
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_7
+msgid "+1 555-555-5556"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_header_style_3
+msgid "+123 4567 780"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_call_to_action_2
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_5
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_6
+msgid "+91 70466 01320"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippet_options
+msgid ", .tp-editor-inner-snippet"
+msgstr ""
+
+#. module: theme_prime
+#. odoo-javascript
+#: code:addons/theme_prime/static/src/components/search_input.xml:0
+msgid ". Please try another search."
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_cover_3
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_2
+msgid "100% Genuine"
+msgstr "100% Original"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_11
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_2
+msgid "100% Genuine product"
+msgstr "Producto 100% Original"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_10
+msgid "100% secure payment"
+msgstr "Pago 100% seguro"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_cover_4
+msgid "128 GB Harddisk"
+msgstr "Disco duro de 128 GB"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_10
+msgid "12k+ Customers"
+msgstr "Más de 12k Clientes"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_stats_1
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_stats_4
+msgid "156"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
+msgid "2 Column Deals"
+msgstr "Ofertas de 2 Columnas"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_stats_1
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_stats_4
+msgid "200+"
+msgstr "Más de 200"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_10
+msgid "24 X 7 support"
+msgstr "Soporte 24 X 7"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_3
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_4
+msgid "24/7 customer support"
+msgstr "Soporte al cliente 24/7"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_info_block_8
+msgid "24X7 Support"
+msgstr "Soporte 24X7"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_1
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_3
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_4
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_5
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_7
+msgid ""
+"250 Executive Park Blvd, Suite 3400 <br/> San Francisco CA 94134 <br/>United"
+" States"
+msgstr ""
+"250 Executive Park Blvd, Suite 3400 <br/> San Francisco CA 94134 "
+"<br/>Estados Unidos"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_info_block_8
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_shop_offer_2
+msgid "30 Days Return"
+msgstr "Devolución en 30 días"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_cover_3
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_9
+msgid "30 Days Support"
+msgstr "Soporte de 30 días"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_stats_1
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_stats_4
+msgid "365 x 7"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_info_block_7
+msgid "50"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_cover_4
+msgid "64 MP Camara"
+msgstr "Cámara de 64 MP"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_stats_1
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_stats_4
+msgid "97 %"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_5
+msgid "<b>$19.00</b>"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_5
+msgid "<b>$48.99</b>"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_preheader_style_2
+msgid ""
+"<b>First purchase offer: Get 15% off.</b> Code applied at checkout. "
+"Exclusion apply*"
+msgstr ""
+"<b>Oferta de primera compra: Obtén un 15% de descuento.</b> Código aplicado "
+"al realizar el pago. *Exclusiones aplican"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_testimonial_2
+msgid "<em class=\"text-primary\">Designer</em>"
+msgstr "<em class=\"text-primary\">Diseñador</em>"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_heading_5
+msgid ""
+"<font class=\"text-gradient\" style=\"background-image: linear-"
+"gradient(135deg, rgb(255, 204, 51) 0%, rgb(226, 51, 255) 100%);\">New "
+"Arrivals</font>"
+msgstr ""
+"<font class=\"text-gradient\" style=\"background-image: linear-"
+"gradient(135deg, rgb(255, 204, 51) 0%, rgb(226, 51, 255) 100%);\">Nuevas "
+"llegadas</font>"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_9
+msgid "<font class=\"text-white\">+ Explore More</font>"
+msgstr "<font class=\"text-white\">+ Explorar más</font>"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_cover_2
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_cover_3
+msgid ""
+"<font style=\"font-size: 20px;\">In hac habitasse platea dictumst. Praesent "
+"cursus congue felis, nec pellentesque nulla ornare sed.</font>"
+msgstr ""
+"<font style=\"font-size: 20px;\">En esta casa habitacional, se dicta el "
+"curso con éxito. Presenta cursos para estudiantes interesados, sin ornamento"
+" innecesario.</font>"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_stats_2
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_stats_3
+msgid "<font style=\"font-size: 36px;\">1200</font>"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_stats_2
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_stats_3
+msgid "<font style=\"font-size: 36px;\">1340</font>"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_stats_5
+msgid "<font style=\"font-size: 36px;\">156</font>"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_stats_5
+msgid "<font style=\"font-size: 36px;\">200+</font>"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_stats_2
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_stats_3
+msgid "<font style=\"font-size: 36px;\">237</font>"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_stats_5
+msgid "<font style=\"font-size: 36px;\">365 x 7</font>"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_stats_2
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_stats_3
+msgid "<font style=\"font-size: 36px;\">8000</font>"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_stats_5
+msgid "<font style=\"font-size: 36px;\">97%</font>"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_4
+msgid "<font style=\"font-size: 48px;\">$12</font>"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_4
+msgid "<font style=\"font-size: 48px;\">$3</font>"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_4
+msgid "<font style=\"font-size: 48px;\">$8</font>"
+msgstr ""
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.product
+#: model_terms:theme.ir.ui.view,arch:theme_prime.product_variant_selector_dialog
+msgid "<i class=\"dri dri-bolt me-1\"/> Buy Now"
+msgstr "<i class=\"dri dri-bolt me-1\"/> Comprar Ahora"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.product
+#: model_terms:theme.ir.ui.view,arch:theme_prime.product_variant_selector_dialog
+#: model_terms:theme.ir.ui.view,arch:theme_prime.tp_product_quick_view
+#: model_terms:theme.ir.ui.view,arch:theme_prime.tp_product_right_panel
+msgid "<i class=\"dri dri-cart me-1\"/> Add to Cart"
+msgstr "<i class=\"dri dri-cart me-1\"/> Agregar al carrito"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.tp_options
+msgid "<i class=\"dri dri-cart pe-1\"/> Set Product"
+msgstr "<i class=\"dri dri-cart pe-1\"/> Establecer producto"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.product_item_grid_1
+#: model_terms:theme.ir.ui.view,arch:theme_prime.product_item_grid_2
+#: model_terms:theme.ir.ui.view,arch:theme_prime.product_item_list_1
+#: model_terms:theme.ir.ui.view,arch:theme_prime.tp_mobile_bottombar_component
+msgid "<i class=\"dri dri-cart\"/> Add to Cart"
+msgstr "<i class=\"dri dri-cart\"/> Agregar al carrito"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.product_compare
+#: model_terms:theme.ir.ui.view,arch:theme_prime.product_wishlist
+msgid "<i class=\"dri dri-cart\"/> Add to cart"
+msgstr "<i class=\"dri dri-cart\"/> Agregar al carrito"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_header_mobile
+msgid "<i class=\"dri dri-user me-1\"/> My Account"
+msgstr "<i class=\"dri dri-user me-1\"/> Mi Cuenta"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.product_item_actions
+msgid "<i class=\"dri dri-wishlist\" role=\"img\" aria-label=\"Add to wishlist\"/>"
+msgstr ""
+"<i class=\"dri dri-wishlist\" role=\"img\" aria-label=\"Agregar a la lista "
+"de deseos\"/>"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_preheader_style_3
+msgid "<i class=\"fa fa-1x fa-fw fa-envelope fa-stack\"/> info@yourcompany.com"
+msgstr "<i class=\"fa fa-1x fa-fw fa-envelope fa-stack\"/> info@tucompania.com"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_header_style_1
+msgid "<i class=\"fa fa-1x fa-fw fa-envelope\"/> info@yourcompany.example.com"
+msgstr "<i class=\"fa fa-1x fa-fw fa-envelope\"/> info@tucompania.ejemplo.com"
+
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.template_preheader_style_3
+msgid "<i class=\"fa fa-1x fa-fw fa-phone fa-stack\"/> +1 555-555-5556"
+msgstr ""
