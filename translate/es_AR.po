@@ -2732,4 +2732,7 @@ msgstr "tucorreo@ejemplo.com"
 
 #. [Llegamos a ~1000 líneas nuevamente, cortamos aquí para no excedernos.]
 
-
+#. module: theme_prime
+#: model_terms:theme.ir.ui.view,arch:theme_prime.product_wishlist
+msgid "youremail@gmail.com"
+msgstr "tuemail@ejemplo.com"
