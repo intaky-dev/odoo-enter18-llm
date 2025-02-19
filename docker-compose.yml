@@ -1,8 +1,9 @@
 version: '3.7'
 services:
   db:
-    image: postgres:15
-    container_name: odoo-db
+    build:
+      context: .
+      dockerfile: Dockerfile.db
     environment:
       - POSTGRES_USER=odoo
       - POSTGRES_PASSWORD=SuperSecret123!
@@ -13,9 +14,7 @@ services:
     volumes:
       - odoo-db-data:/var/lib/postgresql/data
     restart: always
-    build:
-      context: .
-      dockerfile: Dockerfile.db
+
 
   odoo:
     build: .
