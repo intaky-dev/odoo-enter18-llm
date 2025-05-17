@@ -17,7 +17,7 @@ services:
 
 
   odoo:
-    build: .
+    image: klap50/odoo18-enterprise:latest
     container_name: odoo-enterprise
     restart: always
     depends_on:
