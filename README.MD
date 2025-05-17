@@ -18,8 +18,8 @@ Este repositorio contiene la configuración para ejecutar **Odoo 18 Enterprise**
 
 Este repositorio soporta **dos formas** de obtener la imagen de Odoo 18 Enterprise:
 
-### ✅ **1️⃣ Método recomendado: Usar la imagen desde Docker Hub**
-Si **no quieres construir la imagen manualmente**, simplemente **pullea la imagen preconstruida** desde [Docker Hub](https://hub.docker.com/r/klap50/odoo18-enterprise):
+### ✅ **1️⃣ Método recomendado: Usar la imagen desde Docker Hub (Mas Rapido - menos espera.. xD)**
+Si **no quieres construir la imagen manualmente**, simplemente **pullea la imagen preconstruida** desde [Docker Hub](https://hub.docker.com/repository/docker/klap50/odoo18-enterprise/general):
 
 1️⃣ **Edita el `docker-compose.yml`** y usa la imagen de Docker Hub:
 
@@ -126,7 +126,7 @@ docker-compose up -d --build
 
 💡 Causa: Se está ejecutando pip install como root, lo cual puede generar problemas de permisos.
 
-✅ Solución recomendada: Se instaló un entorno virtual en el Dockerfile para evitar conflictos:
+✅ Solución: Se instaló un entorno virtual en el Dockerfile para evitar conflictos:
 
 ```
 dockerfile
