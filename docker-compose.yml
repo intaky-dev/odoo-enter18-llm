@@ -4,11 +4,12 @@ services:
     build:
       context: .
       dockerfile: Dockerfile.db
+
     environment:
-      - POSTGRES_USER=odoo
-      - POSTGRES_PASSWORD=SuperSecret123!
-      - POSTGRES_DB=odoo
-      - POSTGRES_INITDB_ARGS="--locale=es_AR.UTF-8"
+      - POSTGRES_USER=${POSTGRES_USER}
+      - POSTGRES_PASSWORD=${POSTGRES_PASSWORD}
+      - POSTGRES_DB=${POSTGRES_DB}
+      - POSTGRES_INITDB_ARGS=--locale=es_AR.UTF-8
     ports:
       - "5432:5432"
     volumes:
@@ -19,6 +20,11 @@ services:
   odoo:
     image: klap50/odoo18-enterprise:latest
     container_name: odoo-enterprise
+    logging:
+     driver: "json-file"
+     options:
+       max-size: "10m"
+       max-file: "3"
     restart: always
     depends_on:
       - db
