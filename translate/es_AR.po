@@ -7165,3 +7165,9 @@ msgstr ""
 #: model_terms:theme_prime.ir.ui.view,arch:theme_prime.product_wishlist
 msgid "youremail@gmail.com"
 msgstr "tuemail@gmail.com"
+
+
+#. module: base
+#: model:ir.model.fields,field_description:stock.field_res
+msgid "On Hand"
+msgstr "En stock"

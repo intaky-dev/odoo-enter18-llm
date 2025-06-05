@@ -4,7 +4,6 @@ services:
     build:
       context: .
       dockerfile: Dockerfile.db
-
     environment:
       - POSTGRES_USER=${POSTGRES_USER}
       - POSTGRES_PASSWORD=${POSTGRES_PASSWORD}
@@ -16,15 +15,14 @@ services:
       - odoo-db-data:/var/lib/postgresql/data
     restart: always
 
-
   odoo:
     image: klap50/odoo18-enterprise:latest
     container_name: odoo-enterprise
     logging:
-     driver: "json-file"
-     options:
-       max-size: "10m"
-       max-file: "3"
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
     restart: always
     depends_on:
       - db

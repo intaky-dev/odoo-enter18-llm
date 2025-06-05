@@ -41,8 +41,11 @@ RUN useradd -m -d /opt/odoo -U -r -s /bin/bash odoo
 # Copiar el paquete .deb al contenedor
 COPY $ODOO_PACKAGE /tmp/
 
-# Instalar el paquete .deb asegurando la instalación de dependencias
-RUN dpkg -i /tmp/$ODOO_PACKAGE || apt-get install -fy
+# Instalar el paquete .deb (con reparación de dependencias)  
+# ──► y parchear la línea defectuosa <url_code>es</field> → es_419
+RUN dpkg -i /tmp/$ODOO_PACKAGE || apt-get install -fy && \
+    sed -i 's|<url_code>es</field>|<url_code>es_419</field>|' \
+        /usr/lib/python3/dist-packages/odoo/addons/base/data/res_lang_data.xml
 
 # Copiar los requisitos de Python al contenedor
 COPY requirements.txt /tmp/
