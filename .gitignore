@@ -71,3 +71,7 @@ odoo@*
 
 # CI/CD
 .github/workflows/*.log
+
+# Large Odoo installer file
+odoo_18.0+e.latest_all.deb
+*.deb
