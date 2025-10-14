@@ -1,2 +1,73 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Docker volumes and data
+odoo-data/
+odoo-db-data/
+*.log
+
+# Odoo
+*.pyc
+filestore/
+sessions/
+.odoo_bin
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env files (contains secrets)
 .env
-odoo_18.0+e.latest_all.deb
+config/.env
+
+# Database backups
+*.sql
+*.dump
+*.backup
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Node modules (if using any)
+node_modules/
+
+# Odoo specific
+odoo.conf.backup
+*.session
+
+# Test files
+test_*.py
+tests/__pycache__/
+
+# Documentation builds
+docs/_build/
+docs/.doctrees/
+
+# Custom modules cache
+addons/*/__pycache__/
+addons/*/*.pyc
+
+# Ignore symlinks
+odoo@*
+
+# Ignore file created during testing
+=2.0.0
+
+# CI/CD
+.github/workflows/*.log

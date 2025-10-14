@@ -1,4 +1,3 @@
-version: '3.7'
 services:
   db:
     build:
@@ -40,6 +39,7 @@ services:
     volumes:
       - odoo-data:/var/lib/odoo
       - ./config:/etc/odoo
+      - ./addons:/opt/odoo/custom-addons
 
 volumes:
   odoo-db-data:

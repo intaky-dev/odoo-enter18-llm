@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data noupdate="1">
+        <!-- Configuración contable argentina -->
+        <function model="res.company" name="_load_l10n_ar_chart_template">
+            <value eval="[ref('base.main_company')]"/>
+        </function>
+        
+        <!-- Configurar moneda ARS como principal -->
+        <record id="base.main_company" model="res.company">
+            <field name="currency_id" ref="base.ARS"/>
+        </record>
+        
+        <!-- Activar localización argentina -->
+        <record id="l10n_ar_config" model="ir.config_parameter">
+            <field name="key">l10n_ar.auto_install</field>
+            <field name="value">True</field>
+        </record>
+    </data>
+</odoo>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data>
+        <record id="res_partner_form_rg5329" model="ir.ui.view">
+            <field name="name">res.partner.form.rg5329</field>
+            <field name="model">res.partner</field>
+            <field name="inherit_id" ref="base.view_partner_form"/>
+            <field name="arch" type="xml">
+                <xpath expr="//group[@name='misc']" position="inside">
+                    <field name="rg5329_exempt" string="Exento RG 5329"/>
+                </xpath>
+            </field>
+        </record>
+    </data>
+</odoo>  

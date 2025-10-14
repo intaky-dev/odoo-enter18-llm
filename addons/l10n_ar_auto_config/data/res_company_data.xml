@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data noupdate="1">
+        <!-- Configuración automática de empresa argentina -->
+        <record id="base.main_company" model="res.company">
+            <field name="name">Mi Empresa Argentina</field>
+            <field name="country_id" ref="base.ar"/>
+            <field name="currency_id" ref="base.ARS"/>
+            <field name="street">Av. Corrientes 1234</field>
+            <field name="city">Buenos Aires</field>
+            <field name="zip">C1043AAZ</field>
+            <field name="phone">+54 11 4000-0000</field>
+            <field name="email">info@empresa.com.ar</field>
+            <field name="website">https://www.empresa.com.ar</field>
+            <field name="vat">30-12345678-9</field>
+        </record>
+        
+        <!-- Configurar idioma español argentino por defecto -->
+        <record id="base.lang_es_AR" model="res.lang">
+            <field name="active">True</field>
+        </record>
+        
+        <!-- Configurar usuario administrador con idioma argentino -->
+        <record id="base.user_admin" model="res.users">
+            <field name="lang">es_AR</field>
+            <field name="tz">America/Argentina/Buenos_Aires</field>
+        </record>
+    </data>
+</odoo>
